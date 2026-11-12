@@ -1,0 +1,1201 @@
+customer_id,age,gender,city,membership,monthly_income_inr,orders_last_3_months,avg_order_value_inr,monthly_spend_inr,discount_pct,delivery_days,satisfaction_score,website_minutes,returns_count,payment_method
+CUST0001,34,Female,Bengaluru,Gold,57460,6,2451,5497,28.9,3.0,7,13.1,1,Debit Card
+CUST0002,22,Female,Delhi,Regular,54941,1,1011,386,9.5,2.9,9,6.6,1,UPI
+CUST0003,38,Female,Pune,Gold,12000,2,2931,2310,21.4,4.2,10,22.5,0,UPI
+CUST0004,39,Female,Delhi,Silver,34777,4,1282,1504,5.5,2.1,8,22.5,1,UPI
+CUST0005,18,Male,Ahmedabad,Regular,51034,1,1220,397,9.9,3.6,8,14.9,0,UPI
+CUST0006,19,Female,Mumbai,Regular,45224,1,965,277,31.4,3.6,6,35.3,1,UPI
+CUST0007,32,Female,Mumbai,Gold,56695,4,2307,2344,35.5,2.1,8,11.3,0,Credit Card
+CUST0008,28,Female,Bengaluru,Regular,73460,3,939,1014,5.5,5.2,8,5.7,2,UPI
+CUST0009,31,Female,Bengaluru,Regular,45891,2,2197,1414,5.2,2.8,8,11.4,0,Cash on Delivery
+CUST0010,23,Female,Bengaluru,Gold,31905,5,4433,6458,20.3,2.0,10,6.6,0,Debit Card
+CUST0011,39,Male,Mumbai,Regular,58172,4,1588,2485,3.7,4.3,8,22.4,1,UPI
+CUST0012,38,Female,Pune,Regular,45794,3,2102,2097,10.3,3.3,6,11.0,0,Credit Card
+CUST0013,32,Male,Bengaluru,Regular,49035,1,576,239,21.9,3.7,9,34.1,0,UPI
+CUST0014,41,Male,Bengaluru,Gold,46456,6,1046,2399,29.0,1.7,7,33.7,1,UPI
+CUST0015,35,Female,Delhi,Regular,94595,1,961,379,12.8,4.2,7,9.9,1,Net Banking
+CUST0016,23,Female,Delhi,Regular,12000,0,1119,0,21.9,5.9,7,10.6,0,Credit Card
+CUST0017,34,Female,Delhi,Regular,44622,3,1012,813,30.8,1.6,10,25.5,0,UPI
+CUST0018,22,Male,Hyderabad,Regular,51930,2,552,288,3.0,3.6,7,34.0,0,Cash on Delivery
+CUST0019,39,Female,Bengaluru,Regular,37158,2,1784,1436,43.9,2.2,9,4.9,0,Cash on Delivery
+CUST0020,31,Male,Bengaluru,Regular,69097,3,2718,2226,22.4,6.6,6,21.6,0,Credit Card
+CUST0021,29,Male,Bengaluru,Regular,67452,2,1884,1188,5.9,4.7,8,4.3,0,Debit Card
+CUST0022,25,Male,Mumbai,Regular,51093,2,1735,1220,21.0,3.6,9,12.6,0,Debit Card
+CUST0023,42,Male,Mumbai,Gold,46857,6,2089,3576,32.3,1.7,8,36.6,1,Debit Card
+CUST0024,30,Other,Bengaluru,Regular,49873,5,772,1110,7.8,2.0,10,127.3,0,Credit Card
+CUST0025,27,Female,Hyderabad,Regular,50009,1,1134,372,9.4,4.1,9,15.4,1,Cash on Delivery
+CUST0026,28,Female,Delhi,Gold,50511,2,4601,2854,7.0,1.5,10,8.0,0,Credit Card
+CUST0027,36,Female,Mumbai,Gold,48428,12,1639,7135,23.9,1.5,10,12.9,1,UPI
+CUST0028,34,Male,Bengaluru,Silver,56797,5,1198,1572,16.7,3.2,8,18.8,0,UPI
+CUST0029,35,Male,Mumbai,Regular,66311,2,1751,1161,9.2,3.4,7,11.6,2,UPI
+CUST0030,35,Male,Delhi,Regular,28625,3,1801,1508,26.0,3.7,6,9.9,0,UPI
+CUST0031,50,Female,Hyderabad,Regular,32037,4,770,1081,12.3,2.7,8,13.6,0,UPI
+CUST0032,27,Other,Bengaluru,Regular,18778,2,986,531,7.1,4.4,8,23.3,0,Credit Card
+CUST0033,26,Male,Bengaluru,Regular,68462,1,891,252,13.2,2.1,9,16.1,0,Cash on Delivery
+CUST0034,24,Male,Pune,Silver,56756,5,1493,2866,11.0,4.0,8,10.1,0,UPI
+CUST0035,37,Other,Pune,Regular,61600,2,1749,1012,3.7,3.5,6,11.6,1,UPI
+CUST0036,41,Female,Hyderabad,Silver,24840,3,1034,1157,3.0,4.0,7,13.8,2,Cash on Delivery
+CUST0037,30,Female,Delhi,Regular,85914,0,1738,0,3.8,4.7,10,9.4,0,UPI
+CUST0038,23,Male,Bengaluru,Regular,40432,1,1148,332,4.4,2.6,10,11.4,1,Debit Card
+CUST0039,24,Female,Pune,Gold,55196,6,5047,9080,17.6,2.4,9,27.4,1,Credit Card
+CUST0040,37,Female,Mumbai,Gold,68233,5,2172,4309,8.5,1.1,10,15.5,0,Credit Card
+CUST0041,38,Female,Mumbai,Regular,33247,1,1056,334,8.1,1.0,9,5.8,0,UPI
+CUST0042,36,Female,Mumbai,Silver,41620,5,1846,2682,6.2,3.0,6,35.0,0,UPI
+CUST0043,25,Male,Pune,Regular,55404,3,955,972,16.5,3.1,9,23.6,1,Credit Card
+CUST0044,33,Male,Ahmedabad,Regular,106292,5,518,814,18.9,1.8,6,7.3,0,UPI
+CUST0045,32,Female,Bengaluru,Gold,57721,3,1717,1966,21.1,2.1,8,14.2,2,UPI
+CUST0046,33,Female,Mumbai,Regular,82521,5,988,2050,24.4,5.1,7,10.8,1,UPI
+CUST0047,39,Female,Mumbai,Regular,74908,5,564,952,28.5,4.3,7,27.9,2,Debit Card
+CUST0048,33,Male,Pune,Silver,58992,3,1406,1372,5.6,1.6,10,14.1,0,Credit Card
+CUST0049,37,Male,Hyderabad,Regular,33205,0,462,0,29.4,2.6,10,17.2,1,Debit Card
+CUST0050,32,Male,Pune,Regular,72135,3,951,1176,7.8,3.7,9,15.9,1,Debit Card
+CUST0051,34,Female,Delhi,Regular,23536,1,1218,403,17.8,2.4,7,6.9,0,UPI
+CUST0052,37,Female,Hyderabad,Platinum,82417,4,2500,2797,13.7,2.2,10,44.9,2,Cash on Delivery
+CUST0053,18,Female,Mumbai,Silver,55800,2,1220,1004,2.2,2.8,9,27.7,0,Cash on Delivery
+CUST0054,28,Male,Bengaluru,Regular,12000,2,1061,870,31.6,4.6,6,11.1,1,UPI
+CUST0055,27,Female,Ahmedabad,Regular,45530,3,791,766,31.8,4.7,7,20.4,1,Credit Card
+CUST0056,25,Male,Pune,Silver,64425,10,1457,4488,12.2,2.3,10,33.9,0,UPI
+CUST0057,29,Male,Mumbai,Regular,47497,5,1127,2048,37.6,3.8,7,18.7,0,Cash on Delivery
+CUST0058,44,Female,Ahmedabad,Silver,65585,4,993,1542,14.5,3.2,8,49.5,1,UPI
+CUST0059,23,Female,Hyderabad,Gold,35850,8,2126,5665,20.4,1.9,9,119.9,2,UPI
+CUST0060,40,Female,Bengaluru,Regular,27186,4,1228,1499,18.8,2.8,7,16.6,1,Cash on Delivery
+CUST0061,18,Female,Bengaluru,Regular,50643,3,1026,924,25.0,1.6,9,12.3,0,Credit Card
+CUST0062,28,Female,Mumbai,Regular,52600,3,3041,2777,24.8,4.7,6,9.5,0,UPI
+CUST0063,32,Male,Hyderabad,Regular,45381,2,1037,559,28.7,5.1,8,4.3,0,Credit Card
+CUST0064,36,Female,Bengaluru,Regular,75319,5,978,1857,11.0,2.7,7,40.5,0,Debit Card
+CUST0065,37,Female,Mumbai,Gold,35846,8,1591,3405,12.3,2.4,9,14.3,0,UPI
+CUST0066,38,Male,Delhi,Regular,57950,7,732,1621,44.2,4.5,6,31.8,1,Credit Card
+CUST0067,28,Male,Ahmedabad,Silver,53291,5,1934,3763,30.0,4.7,6,36.2,1,Credit Card
+CUST0068,27,Female,Hyderabad,Silver,22422,3,1087,1035,43.1,1.8,7,8.9,3,Credit Card
+CUST0069,39,Male,Mumbai,Regular,26938,3,867,778,2.4,3.0,8,9.8,0,Net Banking
+CUST0070,29,Male,Mumbai,Regular,52226,3,877,1074,13.4,3.1,8,55.9,2,Credit Card
+CUST0071,20,Male,Ahmedabad,Regular,89643,3,727,591,10.9,2.2,9,17.2,0,Credit Card
+CUST0072,21,Male,Ahmedabad,Silver,63006,6,695,1657,30.4,3.7,6,11.7,1,Debit Card
+CUST0073,23,Female,Bengaluru,Regular,19213,3,906,708,19.0,2.3,8,9.1,1,UPI
+CUST0074,35,Male,Delhi,Gold,12000,4,2742,3498,17.9,2.5,8,16.4,0,UPI
+CUST0075,32,Female,Bengaluru,Gold,65928,5,2064,3667,15.6,3.1,9,48.0,0,Net Banking
+CUST0076,37,Male,Pune,Gold,50172,4,3659,4562,16.3,1.3,9,28.1,0,Debit Card
+CUST0077,27,Male,Mumbai,Platinum,73684,7,3290,7809,7.2,1.0,9,20.3,0,UPI
+CUST0078,32,Female,Mumbai,Gold,35266,6,2368,4035,8.8,4.3,7,50.5,0,UPI
+CUST0079,37,Female,Mumbai,Gold,58654,7,4189,10112,16.6,2.3,10,44.6,0,UPI
+CUST0080,28,Male,Hyderabad,Gold,68077,4,1824,1988,20.7,5.9,5,22.4,0,UPI
+CUST0081,35,Male,Mumbai,Gold,43498,6,1951,4480,11.1,5.7,6,109.4,1,UPI
+CUST0082,25,Female,Mumbai,Gold,43904,9,1891,5911,37.2,2.6,9,15.3,0,Credit Card
+CUST0083,28,Male,Bengaluru,Platinum,52480,12,4590,18194,15.7,6.1,6,36.7,0,UPI
+CUST0084,28,Male,Mumbai,Regular,62311,5,1101,1426,2.9,4.4,6,13.9,1,Credit Card
+CUST0085,20,Male,Mumbai,Silver,51728,7,1104,2576,26.1,2.4,6,32.4,0,Net Banking
+CUST0086,35,Female,Bengaluru,Silver,70506,2,1856,1277,24.2,1.0,8,15.3,0,Net Banking
+CUST0087,27,Female,Pune,Gold,43223,10,1349,3970,22.0,4.1,6,24.3,1,Cash on Delivery
+CUST0088,31,Male,Bengaluru,Regular,26760,4,1376,1998,15.0,3.2,10,85.1,1,Credit Card
+CUST0089,35,Female,Ahmedabad,Gold,89563,3,2261,1783,15.2,3.7,10,33.4,0,Credit Card
+CUST0090,35,Male,Mumbai,Gold,40512,7,1755,3499,11.3,2.9,8,24.5,0,Credit Card
+CUST0091,37,Female,Ahmedabad,Platinum,41200,6,3044,6811,30.6,1.8,7,10.9,1,UPI
+CUST0092,30,Male,Hyderabad,Regular,50750,2,589,323,10.0,2.7,9,20.3,0,Cash on Delivery
+CUST0093,27,Female,Hyderabad,Silver,53276,5,1553,2259,18.1,4.1,6,9.3,1,Debit Card
+CUST0094,30,Female,Bengaluru,Gold,44653,4,1564,2243,19.3,2.8,8,32.0,0,Credit Card
+CUST0095,18,Male,Bengaluru,Platinum,51669,3,7985,8899,15.1,2.7,8,31.5,1,UPI
+CUST0096,18,Male,Bengaluru,Gold,51245,5,2029,2623,18.2,1.3,9,16.0,0,UPI
+CUST0097,19,Male,Delhi,Silver,55322,7,1129,2142,30.3,3.3,8,53.1,1,Cash on Delivery
+CUST0098,22,Male,Mumbai,Silver,12000,2,813,527,7.2,1.8,7,48.4,0,UPI
+CUST0099,35,Male,Ahmedabad,Regular,87737,3,1903,1991,9.5,4.3,7,19.8,0,UPI
+CUST0100,23,Male,Bengaluru,Platinum,49202,7,2072,4723,13.2,2.3,10,26.0,0,Credit Card
+CUST0101,28,Female,Delhi,Regular,63032,2,789,565,3.1,2.8,8,12.3,0,Debit Card
+CUST0102,43,Male,Pune,Silver,25816,8,1670,5023,16.8,5.9,7,15.1,0,UPI
+CUST0103,28,Male,Mumbai,Gold,43051,11,2496,11209,15.7,2.8,6,8.9,0,UPI
+CUST0104,38,Female,Bengaluru,Regular,39226,2,1436,885,25.1,2.6,10,13.2,0,Debit Card
+CUST0105,23,Female,Bengaluru,Regular,79925,5,1109,1537,27.8,3.9,7,16.8,1,Cash on Delivery
+CUST0106,29,Male,Pune,Regular,40870,4,1176,1383,10.2,1.0,10,6.1,0,Credit Card
+CUST0107,22,Female,Pune,Gold,66404,2,2094,1150,11.1,4.8,7,26.2,1,Debit Card
+CUST0108,28,Male,Mumbai,Silver,39642,2,1670,1054,14.9,4.4,7,35.0,0,UPI
+CUST0109,39,Other,Bengaluru,Regular,43400,3,1315,1560,27.7,3.9,6,17.9,1,Debit Card
+CUST0110,18,Male,Pune,Silver,47335,1,2296,707,7.2,1.0,10,3.1,1,Credit Card
+CUST0111,35,Female,Ahmedabad,Regular,76393,3,1126,928,16.7,2.9,9,15.3,0,Cash on Delivery
+CUST0112,33,Female,Mumbai,Gold,16093,6,1348,2727,4.1,1.6,10,7.3,0,Debit Card
+CUST0113,26,Female,Pune,Regular,27002,1,1035,430,3.1,4.6,10,12.1,0,UPI
+CUST0114,18,Female,Mumbai,Regular,15001,1,1510,425,4.6,4.5,8,46.3,1,UPI
+CUST0115,32,Male,Bengaluru,Regular,31337,4,519,788,17.1,3.7,10,3.7,2,Debit Card
+CUST0116,26,Male,Bengaluru,Silver,36580,4,686,1063,8.1,1.7,8,10.6,0,UPI
+CUST0117,33,Female,Delhi,Regular,21325,1,1618,513,7.0,5.1,8,30.9,1,Debit Card
+CUST0118,31,Female,Ahmedabad,Gold,38051,5,3598,6355,8.2,2.9,7,11.4,0,Credit Card
+CUST0119,45,Male,Mumbai,Regular,13720,2,647,417,18.5,5.5,6,10.9,1,UPI
+CUST0120,29,Female,Delhi,Regular,32658,1,1147,337,24.6,3.5,8,67.5,1,Debit Card
+CUST0121,22,Male,Mumbai,Regular,74808,6,930,1791,18.3,3.8,6,23.0,0,Credit Card
+CUST0122,33,Female,Mumbai,Regular,59668,5,986,1311,7.5,2.6,9,33.0,1,Cash on Delivery
+CUST0123,33,Male,Bengaluru,Platinum,55562,10,2729,10038,3.0,5.0,7,24.8,0,UPI
+CUST0124,43,Female,Mumbai,Regular,32947,3,639,744,0.7,4.0,5,20.0,0,UPI
+CUST0125,39,Male,Bengaluru,Platinum,22814,9,1507,4086,21.1,5.0,7,40.9,1,UPI
+CUST0126,34,Female,Delhi,Regular,30356,5,969,1669,7.0,3.4,8,62.1,0,UPI
+CUST0127,44,Male,Delhi,Regular,51179,4,1035,1195,25.2,3.1,9,6.0,1,Debit Card
+CUST0128,20,Female,Bengaluru,Regular,68495,2,686,372,34.6,3.9,8,17.6,0,UPI
+CUST0129,25,Female,Bengaluru,Regular,69145,3,1533,1658,29.2,5.0,9,17.5,0,UPI
+CUST0130,23,Male,Pune,Gold,63982,5,1594,2171,10.5,4.5,8,13.6,3,Net Banking
+CUST0131,27,Female,Mumbai,Silver,37986,4,1215,1848,26.4,3.4,7,34.1,2,UPI
+CUST0132,19,Female,Mumbai,Regular,52466,5,1239,1829,11.6,1.0,9,21.3,1,UPI
+CUST0133,37,Female,Delhi,Silver,45894,3,1374,1593,5.2,4.2,7,62.9,0,Cash on Delivery
+CUST0134,29,Female,Ahmedabad,Silver,48177,1,2061,642,27.3,1.4,10,36.8,0,Debit Card
+CUST0135,18,Female,Mumbai,Platinum,90705,9,1622,4547,26.7,3.2,8,43.7,0,UPI
+CUST0136,22,Male,Bengaluru,Platinum,18522,6,1335,3005,8.7,3.1,7,8.3,0,Net Banking
+CUST0137,34,Female,Delhi,Silver,47541,1,1273,427,15.5,1.4,9,10.7,0,Credit Card
+CUST0138,39,Male,Hyderabad,Gold,75023,4,1949,2210,10.6,3.7,8,11.2,0,UPI
+CUST0139,49,Other,Bengaluru,Gold,24148,7,1128,3093,27.2,5.9,5,42.5,1,UPI
+CUST0140,57,Female,Bengaluru,Silver,39769,1,810,248,10.1,2.8,9,9.6,0,Cash on Delivery
+CUST0141,35,Male,Delhi,Silver,41948,8,1565,3344,28.4,4.2,6,9.8,1,UPI
+CUST0142,22,Male,Hyderabad,Regular,47757,4,800,1022,25.5,6.1,8,8.7,1,Debit Card
+CUST0143,18,Male,Mumbai,Gold,21677,7,1032,2497,17.5,4.3,8,107.8,0,UPI
+CUST0144,33,Female,Ahmedabad,Platinum,63310,10,3600,12659,21.8,2.4,10,16.4,1,UPI
+CUST0145,24,Female,Mumbai,Regular,64659,3,844,986,3.6,3.5,7,25.4,0,Cash on Delivery
+CUST0146,27,Female,Hyderabad,Gold,61659,8,3080,8383,11.0,3.8,9,8.6,0,Net Banking
+CUST0147,25,Male,Mumbai,Platinum,35463,7,2429,4885,20.7,5.0,8,33.6,0,UPI
+CUST0148,30,Other,Mumbai,Regular,53644,2,1245,731,26.7,4.7,7,5.7,1,UPI
+CUST0149,41,Male,Mumbai,Silver,34911,5,1327,1770,29.6,1.0,9,9.5,0,Debit Card
+CUST0150,32,Female,Pune,Platinum,45681,8,787,2346,3.0,2.1,7,11.2,1,Credit Card
+CUST0151,30,Male,Pune,Platinum,92916,11,1489,4384,12.0,3.1,6,20.8,0,UPI
+CUST0152,22,Female,Mumbai,Regular,53818,1,1043,366,5.6,1.9,8,10.7,0,UPI
+CUST0153,18,Male,Pune,Regular,29437,4,1282,1792,3.5,1.0,8,48.5,0,Cash on Delivery
+CUST0154,27,Female,Pune,Silver,55426,3,684,782,15.8,2.3,10,25.0,0,UPI
+CUST0155,31,Male,Delhi,Regular,26316,2,1076,565,7.2,3.2,6,11.5,0,UPI
+CUST0156,47,Male,Hyderabad,Regular,29219,1,687,195,16.6,2.5,9,34.4,0,UPI
+CUST0157,32,Female,Delhi,Regular,32219,2,1214,975,11.2,2.0,9,13.9,0,UPI
+CUST0158,40,Female,Mumbai,Regular,43558,3,1091,1130,19.5,3.3,8,12.3,1,Credit Card
+CUST0159,27,Male,Mumbai,Silver,69802,6,1981,3878,23.2,3.6,8,32.2,1,UPI
+CUST0160,20,Female,Ahmedabad,Silver,62990,1,2270,850,12.9,2.6,10,3.7,0,Credit Card
+CUST0161,22,Male,Mumbai,Silver,61937,3,1758,2112,7.5,4.9,7,29.0,1,UPI
+CUST0162,24,Male,Pune,Gold,31120,10,2727,8013,20.5,3.3,8,11.3,1,UPI
+CUST0163,50,Male,Ahmedabad,Regular,41715,1,949,380,3.8,2.1,8,11.3,1,Cash on Delivery
+CUST0164,24,Female,Ahmedabad,Regular,57168,1,3600,965,6.6,1.8,10,64.3,1,Credit Card
+CUST0165,39,Female,Pune,Regular,40062,1,659,272,10.8,2.9,10,12.7,1,UPI
+CUST0166,23,Female,Delhi,Regular,46711,5,881,1222,3.5,4.6,6,33.5,0,UPI
+CUST0167,39,Male,Pune,Regular,60386,7,1606,3309,3.1,2.2,6,21.6,0,Credit Card
+CUST0168,34,Female,Delhi,Regular,45373,6,1509,2409,18.8,3.9,8,23.1,0,Debit Card
+CUST0169,30,Female,Mumbai,Regular,56295,5,1350,2592,23.9,3.3,9,15.3,1,Debit Card
+CUST0170,31,Female,Mumbai,Regular,82262,1,1461,605,16.9,5.7,9,14.8,0,Debit Card
+CUST0171,25,Male,Bengaluru,Silver,48735,7,604,1266,4.0,3.7,9,48.6,0,UPI
+CUST0172,35,Female,Mumbai,Silver,74407,4,2827,3441,8.1,2.3,10,33.0,0,Net Banking
+CUST0173,27,Male,Delhi,Platinum,62628,15,2203,9798,21.2,4.1,10,13.0,1,UPI
+CUST0174,20,Male,Pune,Gold,24122,6,3206,5305,17.7,4.2,9,9.1,0,UPI
+CUST0175,19,Male,Hyderabad,Silver,31059,3,617,706,27.1,2.7,9,12.3,0,Credit Card
+CUST0176,33,Other,Hyderabad,Regular,36162,2,1225,637,28.2,1.7,7,34.1,0,UPI
+CUST0177,45,Male,Bengaluru,Silver,35758,5,1144,2353,35.7,3.9,8,38.7,0,Credit Card
+CUST0178,32,Male,Delhi,Regular,50284,6,1399,3396,9.5,3.3,8,25.8,1,UPI
+CUST0179,30,Female,Mumbai,Regular,63678,4,1257,1356,14.9,1.3,9,6.3,1,Debit Card
+CUST0180,34,Male,Bengaluru,Regular,75848,0,1283,0,7.8,3.5,8,29.4,1,Debit Card
+CUST0181,43,Male,Mumbai,Regular,57855,0,705,0,9.1,2.4,10,42.0,0,Credit Card
+CUST0182,33,Male,Hyderabad,Regular,43532,1,1074,421,14.3,1.3,8,20.1,0,Credit Card
+CUST0183,27,Male,Hyderabad,Silver,12437,11,1344,5458,10.8,2.8,9,65.2,0,UPI
+CUST0184,41,Other,Hyderabad,Gold,53341,4,2339,2374,7.6,4.8,8,7.6,0,Cash on Delivery
+CUST0185,35,Male,Hyderabad,Gold,52490,3,2879,2258,18.8,4.7,6,28.1,0,Credit Card
+CUST0186,45,Female,Ahmedabad,Silver,55476,4,1545,2363,7.1,4.4,6,9.3,0,Credit Card
+CUST0187,33,Female,Mumbai,Silver,92019,1,848,265,20.8,3.5,6,35.8,1,UPI
+CUST0188,20,Female,Ahmedabad,Regular,75571,4,1151,1664,21.2,3.9,8,26.8,0,UPI
+CUST0189,19,Female,Bengaluru,Silver,66916,5,4341,8100,15.5,3.3,8,58.0,0,UPI
+CUST0190,46,Female,Pune,Silver,33721,2,2895,1855,12.7,1.8,8,24.9,0,Debit Card
+CUST0191,47,Female,Bengaluru,Regular,42253,2,315,173,5.1,2.1,6,13.8,0,Cash on Delivery
+CUST0192,29,Female,Pune,Regular,50198,5,1130,1777,14.0,2.4,9,13.1,0,Net Banking
+CUST0193,28,Male,Mumbai,Platinum,37267,9,3550,12626,19.1,5.0,7,15.3,0,Credit Card
+CUST0194,44,Female,Mumbai,Silver,61509,3,1343,1230,7.4,4.5,6,12.9,1,Credit Card
+CUST0195,21,Male,Mumbai,Regular,58781,2,907,472,20.5,1.9,8,43.2,0,Debit Card
+CUST0196,23,Male,Bengaluru,Silver,31322,1,1296,531,28.8,3.3,8,41.2,1,UPI
+CUST0197,37,Female,Hyderabad,Regular,74740,1,1387,504,23.9,2.7,9,6.8,0,Credit Card
+CUST0198,27,Female,Bengaluru,Regular,53944,6,679,1386,41.0,3.0,8,18.5,0,Debit Card
+CUST0199,31,Female,Bengaluru,Regular,19148,2,1812,1407,13.1,2.5,7,18.7,1,UPI
+CUST0200,30,Other,Pune,Regular,51024,4,1074,1368,17.0,5.0,7,10.8,1,UPI
+CUST0201,34,Female,Bengaluru,Silver,57343,8,979,3244,13.1,3.2,9,23.9,1,UPI
+CUST0202,44,Male,Mumbai,Regular,70483,1,1764,693,5.9,3.5,8,46.5,1,Credit Card
+CUST0203,32,Male,Hyderabad,Gold,45588,8,993,2357,10.8,3.5,8,32.1,1,UPI
+CUST0204,37,Other,Mumbai,Regular,67731,0,871,0,2.2,1.9,8,43.2,1,UPI
+CUST0205,18,Female,Delhi,Silver,55556,3,1140,1012,24.7,3.3,7,11.3,1,UPI
+CUST0206,31,Female,Delhi,Silver,27014,1,3568,1284,10.5,4.5,6,18.4,0,Debit Card
+CUST0207,23,Female,Bengaluru,Silver,25112,3,1087,1163,17.0,5.0,5,10.9,2,Cash on Delivery
+CUST0208,20,Female,Hyderabad,Silver,73329,8,587,1583,7.4,1.8,10,21.0,0,Cash on Delivery
+CUST0209,23,Female,Mumbai,Platinum,74724,7,1880,5408,16.9,1.3,10,22.3,0,Cash on Delivery
+CUST0210,28,Male,Hyderabad,Silver,58135,5,1756,2886,15.0,3.3,8,33.6,0,UPI
+CUST0211,39,Male,Delhi,Gold,80418,5,2641,5026,19.3,4.6,8,42.3,0,UPI
+CUST0212,19,Male,Hyderabad,Silver,72076,4,3772,5427,7.0,3.6,8,28.2,1,Credit Card
+CUST0213,31,Male,Delhi,Regular,64989,6,1986,4008,4.6,4.1,7,10.3,2,Credit Card
+CUST0214,27,Female,Hyderabad,Regular,34685,7,1190,2141,22.4,1.5,9,7.5,0,Debit Card
+CUST0215,28,Male,Ahmedabad,Regular,84897,2,756,544,5.8,2.5,8,25.2,0,UPI
+CUST0216,40,Male,Pune,Regular,62190,5,2176,3885,17.4,1.0,10,47.7,0,Cash on Delivery
+CUST0217,36,Male,Hyderabad,Regular,44669,1,942,255,25.0,3.0,9,17.7,1,UPI
+CUST0218,43,Male,Delhi,Regular,39303,4,834,1277,27.5,1.0,10,6.7,0,Credit Card
+CUST0219,30,Female,Pune,Silver,56879,0,1217,0,16.8,4.9,9,69.8,1,Cash on Delivery
+CUST0220,25,Female,Ahmedabad,Regular,20250,3,650,593,9.0,5.1,9,24.7,0,Credit Card
+CUST0221,29,Female,Pune,Gold,65294,4,1563,2422,26.8,3.4,6,20.1,1,Debit Card
+CUST0222,33,Female,Bengaluru,Regular,33882,2,997,613,11.5,1.3,9,8.4,0,Debit Card
+CUST0223,33,Male,Mumbai,Silver,59042,3,1971,2091,0.7,3.7,8,18.2,0,Debit Card
+CUST0224,21,Female,Mumbai,Regular,42089,4,935,1320,18.8,5.5,8,28.1,0,Debit Card
+CUST0225,32,Male,Hyderabad,Regular,46976,4,646,669,19.2,3.8,7,25.0,0,UPI
+CUST0226,33,Male,Pune,Regular,37619,0,561,0,29.0,4.7,7,11.6,1,UPI
+CUST0227,54,Female,Pune,Silver,48937,4,1583,1818,6.6,2.6,8,17.3,0,Debit Card
+CUST0228,48,Female,Mumbai,Regular,87898,2,1134,642,14.8,2.1,10,12.1,0,Credit Card
+CUST0229,23,Male,Bengaluru,Platinum,78316,9,1902,6148,33.4,3.1,6,53.1,0,Credit Card
+CUST0230,28,Male,Hyderabad,Regular,58735,2,904,455,4.6,1.0,9,32.2,2,UPI
+CUST0231,18,Female,Hyderabad,Silver,51519,2,1707,1405,11.1,6.0,4,12.8,0,UPI
+CUST0232,26,Female,Mumbai,Regular,68040,2,1973,1247,20.3,3.4,7,8.4,0,Credit Card
+CUST0233,34,Male,Bengaluru,Silver,73469,2,1045,627,25.6,4.3,8,21.6,2,Net Banking
+CUST0234,42,Female,Bengaluru,Regular,36233,4,1142,1842,15.7,2.6,9,13.1,0,UPI
+CUST0235,24,Male,Bengaluru,Regular,50529,4,1645,2179,17.0,1.3,9,13.7,0,UPI
+CUST0236,25,Female,Pune,Regular,17383,5,794,1399,15.3,5.0,9,8.6,0,UPI
+CUST0237,18,Female,Pune,Regular,73339,5,1093,2000,32.5,1.8,10,9.3,0,Credit Card
+CUST0238,30,Male,Bengaluru,Regular,91235,0,1083,0,16.8,3.6,8,20.0,0,UPI
+CUST0239,21,Male,Bengaluru,Platinum,53522,7,1384,2631,25.1,3.8,8,15.1,0,Debit Card
+CUST0240,26,Male,Bengaluru,Regular,12000,1,1181,311,15.7,3.3,7,91.2,0,UPI
+CUST0241,23,Female,Bengaluru,Regular,63569,4,1115,1854,18.7,2.2,9,26.5,0,UPI
+CUST0242,30,Other,Hyderabad,Platinum,34822,8,3030,6096,5.1,3.0,7,8.5,0,UPI
+CUST0243,18,Female,Delhi,Regular,39396,2,668,492,16.2,2.0,10,6.6,0,UPI
+CUST0244,18,Female,Pune,Regular,63905,4,1105,1555,27.4,4.2,9,23.3,0,Debit Card
+CUST0245,50,Female,Hyderabad,Silver,56837,3,2591,2659,8.5,3.9,6,13.9,0,Cash on Delivery
+CUST0246,19,Female,Hyderabad,Gold,42726,7,4547,12126,32.7,3.2,7,42.8,1,Debit Card
+CUST0247,21,Male,Mumbai,Silver,39657,6,2482,6186,18.7,2.5,9,21.6,1,Cash on Delivery
+CUST0248,48,Female,Bengaluru,Regular,54391,2,671,346,10.8,5.8,6,5.0,0,UPI
+CUST0249,57,Male,Mumbai,Platinum,44220,9,2901,9201,19.1,1.6,10,9.3,0,Cash on Delivery
+CUST0250,20,Female,Delhi,Regular,30924,0,898,0,16.9,1.3,9,11.6,2,Credit Card
+CUST0251,28,Other,Mumbai,Platinum,45681,8,2704,6511,4.3,3.1,10,24.0,1,Debit Card
+CUST0252,34,Female,Delhi,Gold,58452,8,1374,4384,4.9,2.9,8,9.1,1,Credit Card
+CUST0253,47,Male,Mumbai,Platinum,48616,8,1169,3050,9.3,4.6,10,19.9,0,UPI
+CUST0254,22,Female,Bengaluru,Regular,25143,1,952,264,3.8,4.0,8,7.6,1,UPI
+CUST0255,29,Female,Ahmedabad,Regular,70792,0,1490,0,13.5,3.2,6,18.1,1,UPI
+CUST0256,38,Male,Pune,Silver,12000,4,1636,2664,12.9,3.8,10,22.9,1,UPI
+CUST0257,35,Male,Hyderabad,Silver,43519,3,1717,1373,9.4,3.8,9,46.5,1,Credit Card
+CUST0258,28,Male,Ahmedabad,Silver,40216,5,1588,2980,15.2,5.8,7,21.1,0,Net Banking
+CUST0259,30,Female,Hyderabad,Platinum,54815,10,2844,8129,26.2,3.5,9,10.6,1,UPI
+CUST0260,19,Male,Mumbai,Silver,62672,5,1811,2274,20.4,2.3,7,47.5,0,Credit Card
+CUST0261,29,Male,Hyderabad,Regular,73409,1,980,288,18.9,3.4,6,16.0,0,Credit Card
+CUST0262,29,Male,Mumbai,Regular,38464,2,1139,894,35.4,1.0,9,29.8,1,UPI
+CUST0263,33,Female,Pune,Regular,63145,0,2288,0,26.8,3.2,10,12.1,0,UPI
+CUST0264,26,Male,Hyderabad,Regular,55721,1,1168,317,24.1,4.6,8,19.1,2,Credit Card
+CUST0265,35,Male,Delhi,Regular,19481,0,1120,0,14.2,4.0,10,10.7,0,Credit Card
+CUST0266,40,Male,Bengaluru,Gold,88110,9,1984,5673,38.2,3.6,10,22.2,0,UPI
+CUST0267,32,Female,Pune,Silver,24663,3,1323,1090,13.5,4.0,8,30.4,0,UPI
+CUST0268,34,Female,Hyderabad,Silver,59970,6,1208,2090,14.9,4.6,9,13.0,0,UPI
+CUST0269,31,Male,Delhi,Regular,59409,4,1201,1837,1.6,5.0,9,12.6,1,Cash on Delivery
+CUST0270,31,Male,Bengaluru,Silver,57237,2,1173,830,18.9,3.8,8,22.7,0,Debit Card
+CUST0271,25,Male,Hyderabad,Gold,42603,6,1787,4040,7.5,2.8,8,10.5,1,UPI
+CUST0272,34,Female,Mumbai,Gold,67718,6,1363,2178,32.1,1.0,9,6.7,0,Credit Card
+CUST0273,30,Female,Mumbai,Silver,22353,2,1517,990,14.5,4.4,4,22.6,0,Cash on Delivery
+CUST0274,50,Male,Delhi,Gold,50749,6,2428,5577,5.5,3.8,8,16.8,0,UPI
+CUST0275,45,Female,Ahmedabad,Silver,41286,5,1327,1953,11.8,3.4,9,16.6,0,UPI
+CUST0276,34,Female,Mumbai,Regular,39131,4,473,526,33.5,2.3,9,25.3,3,UPI
+CUST0277,24,Male,Mumbai,Gold,60146,6,2435,4582,22.1,4.4,8,27.7,0,UPI
+CUST0278,21,Male,Mumbai,Regular,72472,2,1157,707,45.2,2.9,8,16.2,1,Debit Card
+CUST0279,42,Male,Hyderabad,Regular,45478,1,725,204,45.0,3.2,6,8.7,0,Debit Card
+CUST0280,33,Female,Mumbai,Regular,66833,4,1522,2490,10.9,3.1,10,11.9,0,Credit Card
+CUST0281,35,Female,Bengaluru,Silver,52945,4,806,1066,20.8,3.8,7,26.3,0,UPI
+CUST0282,18,Male,Ahmedabad,Silver,35038,7,2249,5531,4.8,1.8,8,19.7,0,Debit Card
+CUST0283,39,Female,Mumbai,Silver,47099,1,1415,382,1.2,3.9,9,12.6,0,UPI
+CUST0284,35,Female,Bengaluru,Regular,46310,1,424,149,17.7,2.3,10,10.8,0,UPI
+CUST0285,21,Female,Bengaluru,Regular,38763,5,1186,2031,10.7,2.3,9,26.9,0,UPI
+CUST0286,27,Male,Hyderabad,Gold,60141,4,1602,2597,5.9,4.3,8,15.6,0,Cash on Delivery
+CUST0287,33,Male,Pune,Regular,56458,3,871,833,8.7,2.0,7,29.4,0,Debit Card
+CUST0288,31,Male,Pune,Platinum,21778,13,1761,8707,9.0,4.3,7,31.9,0,Credit Card
+CUST0289,28,Male,Mumbai,Regular,20621,0,1043,0,15.9,3.3,10,14.7,0,Debit Card
+CUST0290,30,Female,Delhi,Silver,60069,2,1183,820,18.1,1.1,8,33.4,0,UPI
+CUST0291,29,Female,Delhi,Silver,36510,2,665,538,15.5,4.9,6,19.7,0,UPI
+CUST0292,32,Female,Mumbai,Gold,57739,5,3242,5741,23.6,3.6,8,21.4,1,Debit Card
+CUST0293,44,Female,Pune,Regular,66838,1,993,366,26.0,3.7,8,4.3,0,Cash on Delivery
+CUST0294,18,Female,Hyderabad,Gold,27852,7,1397,3872,12.3,4.5,8,9.6,0,Credit Card
+CUST0295,29,Female,Mumbai,Silver,25181,5,903,1825,7.8,5.1,5,9.9,1,UPI
+CUST0296,33,Female,Mumbai,Silver,83814,1,2004,571,7.5,3.5,5,14.6,0,Net Banking
+CUST0297,34,Male,Bengaluru,Silver,58680,6,840,1425,5.7,4.0,9,19.4,0,UPI
+CUST0298,28,Male,Pune,Regular,44034,5,1164,1989,4.2,3.7,6,19.9,1,UPI
+CUST0299,18,Female,Mumbai,Silver,34255,3,1135,1416,6.1,2.8,8,21.7,1,UPI
+CUST0300,34,Female,Bengaluru,Regular,42302,5,882,1463,5.0,1.2,6,11.5,0,UPI
+CUST0301,47,Male,Mumbai,Regular,29379,1,692,211,25.6,3.5,9,28.2,0,Credit Card
+CUST0302,18,Male,Bengaluru,Silver,68785,3,1117,1138,14.0,4.9,8,58.3,0,Credit Card
+CUST0303,39,Male,Delhi,Silver,37242,3,1455,1138,14.9,3.9,8,14.3,0,UPI
+CUST0304,28,Female,Bengaluru,Regular,72777,3,1214,1018,7.0,1.9,9,11.7,0,UPI
+CUST0305,30,Male,Mumbai,Regular,44388,6,791,1304,5.4,4.6,5,11.5,0,Credit Card
+CUST0306,22,Female,Hyderabad,Regular,32176,4,1059,1079,2.8,2.8,7,19.0,0,Credit Card
+CUST0307,28,Female,Mumbai,Regular,43900,8,1598,4735,10.7,1.0,9,12.8,2,UPI
+CUST0308,43,Female,Delhi,Silver,12000,7,721,1536,16.7,4.5,6,5.8,3,UPI
+CUST0309,36,Female,Pune,Regular,49705,4,1097,1220,24.4,2.0,8,7.0,0,Cash on Delivery
+CUST0310,47,Female,Delhi,Gold,48768,4,1274,1709,6.1,5.4,7,34.9,1,Net Banking
+CUST0311,42,Female,Mumbai,Regular,67670,2,707,430,10.9,4.6,9,41.4,1,UPI
+CUST0312,35,Male,Mumbai,Regular,16160,5,1227,1936,11.4,2.9,6,50.9,0,Debit Card
+CUST0313,47,Female,Bengaluru,Gold,74075,1,1511,457,21.0,3.8,8,20.9,0,Cash on Delivery
+CUST0314,35,Female,Mumbai,Regular,67591,3,660,496,22.8,6.2,7,9.5,0,UPI
+CUST0315,38,Female,Mumbai,Regular,75789,4,1918,2798,36.5,4.5,6,13.5,0,Cash on Delivery
+CUST0316,28,Female,Delhi,Platinum,50998,7,3532,6637,11.6,3.5,8,6.8,1,Credit Card
+CUST0317,32,Female,Hyderabad,Platinum,71264,10,1066,3054,5.1,6.8,7,6.7,0,Credit Card
+CUST0318,25,Female,Mumbai,Silver,24046,6,781,1320,14.5,3.3,8,21.2,0,Credit Card
+CUST0319,40,Female,Hyderabad,Regular,65548,4,1411,1723,18.2,3.9,9,25.6,0,UPI
+CUST0320,20,Male,Hyderabad,Silver,37348,7,1286,2491,37.1,2.0,9,64.3,0,Debit Card
+CUST0321,38,Male,Hyderabad,Platinum,20623,7,4507,9712,10.4,1.1,9,17.1,2,Debit Card
+CUST0322,29,Male,Delhi,Platinum,30641,7,3109,6323,37.3,2.8,7,7.4,0,UPI
+CUST0323,42,Male,Delhi,Regular,52105,4,1247,1298,10.3,3.2,8,16.6,1,Credit Card
+CUST0324,38,Male,Bengaluru,Regular,36338,2,716,566,17.6,3.6,8,15.0,1,Net Banking
+CUST0325,47,Other,Delhi,Regular,59145,4,1352,1627,22.7,1.4,8,13.1,1,Cash on Delivery
+CUST0326,38,Male,Ahmedabad,Regular,17643,1,644,171,11.5,4.0,8,22.5,2,Credit Card
+CUST0327,18,Male,Mumbai,Silver,12000,6,2509,5072,2.2,2.2,10,8.2,0,UPI
+CUST0328,30,Male,Pune,Regular,78075,3,1313,1066,5.5,4.0,7,19.6,0,UPI
+CUST0329,20,Male,Mumbai,Regular,69172,2,778,589,2.5,4.4,7,27.5,0,UPI
+CUST0330,26,Female,Ahmedabad,Regular,32063,3,1542,1204,4.8,2.7,7,45.3,1,Cash on Delivery
+CUST0331,45,Female,Pune,Silver,51943,4,3717,4868,3.9,2.0,7,22.0,0,Debit Card
+CUST0332,37,Female,Delhi,Regular,71371,5,1004,2045,18.7,5.1,10,35.5,0,Cash on Delivery
+CUST0333,25,Female,Hyderabad,Regular,59965,3,1386,1150,25.6,4.3,7,13.5,1,UPI
+CUST0334,22,Male,Ahmedabad,Regular,54816,5,918,1302,4.5,3.4,7,14.8,0,Net Banking
+CUST0335,31,Female,Mumbai,Platinum,72808,5,2488,4355,21.8,5.0,6,43.2,1,Net Banking
+CUST0336,20,Male,Hyderabad,Regular,38116,3,584,724,6.7,3.3,8,7.4,1,Debit Card
+CUST0337,25,Male,Hyderabad,Silver,52592,0,1450,0,5.9,2.4,8,13.9,0,Cash on Delivery
+CUST0338,34,Male,Mumbai,Regular,51661,4,1120,1604,21.4,1.9,10,37.5,0,Credit Card
+CUST0339,41,Female,Delhi,Regular,46818,1,2342,645,32.1,3.1,7,15.7,2,UPI
+CUST0340,36,Female,Pune,Regular,44594,3,518,555,6.8,4.2,6,15.0,0,UPI
+CUST0341,18,Male,Delhi,Regular,53384,4,978,1143,14.2,4.9,8,15.1,0,UPI
+CUST0342,34,Male,Bengaluru,Regular,52654,2,1890,1331,3.9,3.2,8,19.4,0,UPI
+CUST0343,32,Other,Mumbai,Silver,32080,7,1310,2428,21.1,4.7,7,36.5,1,Debit Card
+CUST0344,35,Male,Mumbai,Silver,67234,5,1349,2276,6.5,2.9,9,32.8,0,UPI
+CUST0345,46,Male,Mumbai,Regular,33449,1,775,224,16.2,2.2,9,18.1,0,UPI
+CUST0346,18,Female,Mumbai,Regular,47854,3,744,812,18.7,1.6,9,36.6,0,UPI
+CUST0347,26,Female,Bengaluru,Silver,46390,4,673,1008,4.4,2.6,7,22.5,0,Debit Card
+CUST0348,36,Female,Pune,Regular,58804,2,845,661,17.0,1.6,7,31.5,2,Cash on Delivery
+CUST0349,18,Male,Mumbai,Regular,12000,2,726,603,27.9,5.7,6,9.2,1,UPI
+CUST0350,44,Male,Delhi,Regular,68927,5,1156,1888,6.5,3.7,6,55.7,0,Debit Card
+CUST0351,34,Female,Delhi,Regular,39137,3,790,857,11.4,3.1,8,20.8,0,Net Banking
+CUST0352,39,Male,Bengaluru,Regular,75179,3,899,683,2.9,5.4,5,3.0,0,Debit Card
+CUST0353,26,Female,Ahmedabad,Platinum,42915,11,1985,8753,10.8,1.6,8,52.9,1,Debit Card
+CUST0354,38,Female,Pune,Platinum,51072,5,2352,4147,17.3,3.0,8,18.1,0,Credit Card
+CUST0355,41,Female,Hyderabad,Platinum,88362,9,1922,5539,11.2,5.7,7,13.9,0,Net Banking
+CUST0356,33,Female,Mumbai,Regular,46731,3,704,681,17.2,3.0,9,12.1,1,UPI
+CUST0357,33,Male,Delhi,Regular,75538,2,1140,858,17.5,6.3,6,24.0,1,Debit Card
+CUST0358,33,Female,Ahmedabad,Regular,52742,1,1722,670,11.0,4.2,7,10.1,1,UPI
+CUST0359,23,Male,Hyderabad,Regular,59893,3,1161,1340,19.1,4.8,9,12.4,0,UPI
+CUST0360,30,Male,Bengaluru,Regular,53329,0,851,0,14.2,4.9,7,12.6,1,Debit Card
+CUST0361,30,Female,Bengaluru,Regular,68109,1,1045,326,18.1,3.2,10,14.9,0,Cash on Delivery
+CUST0362,34,Female,Pune,Regular,38975,2,465,379,8.7,2.6,8,12.9,1,Cash on Delivery
+CUST0363,40,Male,Delhi,Regular,33303,4,1037,1475,21.4,3.1,8,31.3,0,Cash on Delivery
+CUST0364,21,Female,Delhi,Regular,39867,2,930,634,26.2,2.0,9,21.5,1,Debit Card
+CUST0365,30,Male,Ahmedabad,Silver,53894,3,980,1028,9.2,3.1,8,23.2,0,Credit Card
+CUST0366,44,Female,Bengaluru,Regular,47804,3,802,854,2.4,3.2,8,26.8,0,Cash on Delivery
+CUST0367,24,Male,Mumbai,Gold,65495,4,1599,2359,8.8,5.3,7,16.9,0,UPI
+CUST0368,24,Male,Bengaluru,Regular,76790,5,1669,2856,11.4,3.9,10,9.3,0,UPI
+CUST0369,33,Female,Mumbai,Silver,33459,5,2294,4541,16.4,6.2,8,58.2,0,Credit Card
+CUST0370,39,Female,Mumbai,Regular,38055,2,745,586,9.2,1.0,10,32.9,0,Credit Card
+CUST0371,31,Male,Pune,Silver,24711,6,1166,2265,29.8,1.7,7,51.4,1,Debit Card
+CUST0372,43,Female,Delhi,Regular,90577,5,894,1243,30.1,2.8,7,35.3,0,Debit Card
+CUST0373,39,Female,Mumbai,Regular,57789,2,1545,1069,20.0,5.1,7,13.3,1,UPI
+CUST0374,39,Female,Mumbai,Silver,61116,3,1541,1634,24.6,3.1,9,3.9,1,Debit Card
+CUST0375,36,Female,Mumbai,Regular,26536,2,1144,772,19.5,1.4,8,8.1,1,Credit Card
+CUST0376,52,Male,Hyderabad,Regular,51978,1,1378,549,10.3,2.9,7,27.2,0,Net Banking
+CUST0377,29,Male,Delhi,Platinum,61676,9,1868,4464,9.3,1.7,10,16.8,0,UPI
+CUST0378,18,Female,Mumbai,Regular,47198,5,1951,2906,14.5,1.5,10,13.7,0,Credit Card
+CUST0379,45,Male,Mumbai,Silver,72438,4,1449,2285,8.0,5.7,8,3.6,1,Debit Card
+CUST0380,27,Female,Bengaluru,Silver,95925,4,1012,1646,17.6,2.8,8,17.8,0,Credit Card
+CUST0381,32,Female,Mumbai,Regular,34006,3,999,962,15.2,3.4,7,8.9,0,UPI
+CUST0382,43,Male,Bengaluru,Regular,32580,1,1845,520,7.4,3.1,9,11.2,1,UPI
+CUST0383,18,Other,Pune,Regular,35323,2,920,589,4.9,2.9,8,31.3,0,UPI
+CUST0384,20,Female,Ahmedabad,Silver,82518,0,2161,0,14.5,2.1,8,9.2,1,Credit Card
+CUST0385,18,Female,Mumbai,Regular,71805,10,846,2848,8.1,2.8,7,9.8,0,Credit Card
+CUST0386,24,Male,Delhi,Regular,49425,5,798,1180,6.4,3.6,7,20.3,0,Credit Card
+CUST0387,35,Male,Mumbai,Regular,52695,3,1451,1315,16.1,5.0,8,31.7,0,Debit Card
+CUST0388,36,Female,Ahmedabad,Gold,36486,6,1316,2837,10.2,4.4,6,13.9,0,UPI
+CUST0389,33,Female,Ahmedabad,Gold,68911,4,2684,3797,20.8,1.7,10,46.7,0,UPI
+CUST0390,18,Male,Delhi,Platinum,44782,7,2782,7017,4.7,4.4,7,7.8,0,Debit Card
+CUST0391,18,Female,Bengaluru,Silver,47059,5,1005,1572,15.2,3.8,7,7.0,1,Debit Card
+CUST0392,31,Female,Mumbai,Silver,63567,4,1407,1723,8.6,2.4,8,6.6,0,Debit Card
+CUST0393,27,Female,Hyderabad,Silver,48428,7,1152,2488,6.2,3.4,8,6.2,1,Debit Card
+CUST0394,35,Female,Delhi,Gold,47536,0,2200,0,8.8,3.9,7,22.4,0,Net Banking
+CUST0395,37,Female,Mumbai,Silver,52201,3,3204,3036,7.0,3.3,7,9.5,0,Cash on Delivery
+CUST0396,32,Male,Pune,Regular,67112,2,941,661,8.7,3.8,7,7.2,0,Credit Card
+CUST0397,38,Male,Bengaluru,Silver,83283,8,1814,4893,33.9,2.1,10,23.0,2,UPI
+CUST0398,33,Male,Hyderabad,Silver,63124,10,1465,5802,5.4,5.7,7,30.8,0,UPI
+CUST0399,36,Other,Delhi,Regular,67263,3,1111,1038,14.7,1.0,9,35.6,0,Credit Card
+CUST0400,25,Female,Delhi,Regular,48203,1,1026,331,21.9,3.9,7,31.8,1,Credit Card
+CUST0401,29,Female,Delhi,Regular,38552,2,767,599,20.2,3.7,7,9.9,0,UPI
+CUST0402,33,Male,Mumbai,Gold,64426,5,2187,3027,3.9,4.0,7,21.5,0,UPI
+CUST0403,38,Female,Pune,Regular,55254,3,974,1020,13.1,2.3,10,24.9,2,Cash on Delivery
+CUST0404,27,Male,Mumbai,Gold,24970,6,1299,2468,4.2,4.7,6,13.2,1,UPI
+CUST0405,36,Male,Delhi,Regular,45767,1,1684,698,41.8,3.1,5,20.0,2,Debit Card
+CUST0406,29,Female,Pune,Gold,50425,4,1981,2934,22.2,1.7,9,8.0,0,Cash on Delivery
+CUST0407,30,Female,Pune,Regular,42301,2,1000,504,10.7,1.8,9,12.0,0,Debit Card
+CUST0408,38,Female,Mumbai,Platinum,80153,7,4213,11499,14.6,3.4,7,22.9,1,UPI
+CUST0409,18,Female,Mumbai,Silver,61117,5,671,1232,3.7,1.2,10,48.0,0,Cash on Delivery
+CUST0410,19,Female,Bengaluru,Regular,78090,4,1877,2579,28.5,5.5,3,38.0,1,Debit Card
+CUST0411,18,Female,Mumbai,Regular,57005,3,760,660,10.3,4.5,9,27.7,0,UPI
+CUST0412,18,Male,Mumbai,Regular,53546,4,1202,1322,11.4,5.5,8,19.0,1,Credit Card
+CUST0413,25,Male,Delhi,Regular,34205,4,859,1219,5.2,5.4,6,17.1,0,UPI
+CUST0414,38,Male,Pune,Silver,52227,6,984,1909,33.8,2.8,8,7.0,0,Debit Card
+CUST0415,28,Female,Pune,Platinum,52248,8,4167,13121,20.8,2.1,9,10.5,1,Cash on Delivery
+CUST0416,33,Female,Pune,Silver,26025,2,3162,1858,22.4,1.0,10,10.7,0,Credit Card
+CUST0417,41,Female,Hyderabad,Silver,41749,7,1321,3294,10.6,2.7,8,26.2,0,Net Banking
+CUST0418,43,Female,Pune,Regular,45858,2,1266,738,13.0,5.4,5,33.3,0,Credit Card
+CUST0419,30,Male,Delhi,Gold,59856,7,1946,4850,20.2,2.2,10,29.1,0,Cash on Delivery
+CUST0420,43,Female,Ahmedabad,Gold,60766,8,3930,8113,23.4,2.9,9,38.8,0,Debit Card
+CUST0421,32,Female,Delhi,Regular,40955,2,453,286,9.1,2.5,9,18.9,0,UPI
+CUST0422,23,Male,Pune,Platinum,60909,9,2812,7055,21.1,3.7,8,9.5,1,Cash on Delivery
+CUST0423,26,Female,Delhi,Regular,48541,4,811,1139,17.4,4.8,8,17.4,0,Cash on Delivery
+CUST0424,18,Female,Pune,Gold,12000,4,706,855,15.0,1.3,10,11.2,1,UPI
+CUST0425,23,Female,Pune,Platinum,42791,12,2063,9372,34.9,1.5,6,27.6,0,Debit Card
+CUST0426,28,Male,Bengaluru,Silver,72501,1,3151,848,4.8,5.1,7,14.3,1,UPI
+CUST0427,38,Male,Pune,Regular,20046,4,835,1145,6.9,4.1,7,16.9,0,UPI
+CUST0428,46,Female,Mumbai,Silver,54141,4,2021,2821,16.3,2.9,8,28.3,0,UPI
+CUST0429,19,Male,Pune,Regular,82120,4,1820,1847,12.8,5.3,8,11.1,1,Credit Card
+CUST0430,35,Male,Mumbai,Gold,37548,8,1890,3871,30.1,1.5,7,33.7,0,UPI
+CUST0431,22,Male,Pune,Regular,52041,0,1157,0,24.8,4.4,6,7.5,1,UPI
+CUST0432,35,Female,Bengaluru,Silver,27224,5,705,1239,13.6,3.1,7,22.0,0,Net Banking
+CUST0433,30,Female,Ahmedabad,Gold,82917,2,1406,1154,16.8,4.0,8,17.0,0,Credit Card
+CUST0434,18,Male,Mumbai,Regular,50417,1,1610,427,12.5,1.0,10,30.8,0,Cash on Delivery
+CUST0435,39,Female,Bengaluru,Regular,52886,5,1128,2071,7.0,2.9,10,7.4,0,UPI
+CUST0436,26,Male,Pune,Silver,77732,3,1692,1855,10.3,4.1,7,6.7,0,UPI
+CUST0437,26,Male,Mumbai,Regular,64568,7,1163,2944,17.1,3.1,9,29.3,0,Debit Card
+CUST0438,21,Female,Mumbai,Regular,35363,3,2762,2784,11.8,4.8,8,14.0,0,UPI
+CUST0439,25,Male,Mumbai,Regular,39702,2,918,755,14.6,4.7,8,17.0,0,Credit Card
+CUST0440,35,Male,Mumbai,Regular,61404,5,2159,3602,30.8,2.0,9,11.7,1,Net Banking
+CUST0441,29,Male,Mumbai,Silver,40142,2,1534,1196,2.2,4.2,7,32.6,0,UPI
+CUST0442,34,Female,Pune,Silver,12000,6,2954,5206,0.9,2.0,7,21.9,0,Credit Card
+CUST0443,34,Male,Bengaluru,Regular,50988,0,658,0,19.1,3.3,7,21.0,0,Credit Card
+CUST0444,43,Male,Mumbai,Regular,23876,3,1189,1484,23.3,4.0,8,8.4,0,UPI
+CUST0445,28,Male,Mumbai,Regular,82709,0,932,0,6.1,2.2,9,24.9,1,Debit Card
+CUST0446,18,Male,Mumbai,Regular,55359,3,1166,1052,11.7,4.2,7,9.4,0,Credit Card
+CUST0447,41,Male,Bengaluru,Silver,34802,5,2423,4737,13.8,2.6,9,11.7,1,UPI
+CUST0448,28,Female,Pune,Regular,38726,3,1290,1029,11.1,2.5,8,7.4,1,Credit Card
+CUST0449,41,Female,Bengaluru,Silver,16101,5,2421,4394,6.9,4.1,6,16.3,0,Credit Card
+CUST0450,34,Female,Mumbai,Platinum,31110,6,1811,3336,11.8,2.2,8,36.0,0,Credit Card
+CUST0451,30,Male,Mumbai,Silver,71310,6,1026,2215,10.1,2.1,10,20.9,0,Cash on Delivery
+CUST0452,34,Male,Ahmedabad,Silver,94404,4,1460,1861,31.8,4.5,6,13.5,1,Debit Card
+CUST0453,49,Male,Mumbai,Regular,65802,2,1082,544,17.0,3.3,8,19.3,0,UPI
+CUST0454,50,Female,Mumbai,Regular,50251,4,1017,1174,15.7,1.4,9,19.3,1,Net Banking
+CUST0455,32,Male,Mumbai,Regular,43793,2,735,378,14.1,4.3,7,18.8,0,Debit Card
+CUST0456,32,Male,Ahmedabad,Gold,33827,7,3143,7067,5.8,2.7,8,20.2,0,UPI
+CUST0457,41,Female,Bengaluru,Gold,91136,5,1631,3181,13.3,1.4,7,9.2,0,UPI
+CUST0458,23,Male,Bengaluru,Regular,48414,3,2002,2240,7.7,1.0,9,19.3,1,UPI
+CUST0459,34,Male,Ahmedabad,Regular,92197,2,1106,844,21.4,4.3,6,5.8,1,UPI
+CUST0460,31,Male,Mumbai,Regular,78477,2,1444,1111,16.7,2.1,10,26.2,0,Credit Card
+CUST0461,34,Female,Ahmedabad,Silver,18925,6,1833,3431,5.5,1.6,9,8.8,0,UPI
+CUST0462,23,Male,Mumbai,Silver,39347,3,1026,1029,26.1,4.0,7,38.7,0,Net Banking
+CUST0463,18,Male,Bengaluru,Silver,39288,4,1692,2266,8.3,4.2,9,3.7,0,Credit Card
+CUST0464,18,Male,Pune,Gold,50483,6,4271,6890,11.0,2.2,7,53.5,0,UPI
+CUST0465,21,Male,Pune,Regular,50854,5,1223,2138,25.0,4.3,7,6.2,0,Net Banking
+CUST0466,27,Other,Ahmedabad,Silver,108929,9,2117,7050,28.7,5.8,4,8.3,0,Credit Card
+CUST0467,28,Female,Mumbai,Silver,31533,2,1940,1365,22.2,4.9,9,21.9,0,UPI
+CUST0468,48,Male,Ahmedabad,Regular,56350,4,1251,1873,30.6,4.7,10,26.9,0,UPI
+CUST0469,41,Female,Pune,Gold,63714,10,2055,5545,29.4,3.6,6,15.0,1,Debit Card
+CUST0470,22,Other,Delhi,Regular,51970,0,1384,0,22.9,2.6,7,32.2,0,Credit Card
+CUST0471,34,Female,Ahmedabad,Silver,54093,8,1998,4550,19.1,3.1,8,10.7,1,Credit Card
+CUST0472,27,Female,Mumbai,Silver,32149,4,822,1303,19.0,3.8,7,13.9,0,Cash on Delivery
+CUST0473,28,Male,Ahmedabad,Gold,54023,5,2108,3065,44.1,1.6,9,14.8,1,Debit Card
+CUST0474,33,Female,Bengaluru,Silver,61717,3,1342,1337,15.9,2.2,8,12.7,0,Cash on Delivery
+CUST0475,37,Male,Delhi,Regular,58224,9,933,2781,5.9,1.4,10,5.1,0,Debit Card
+CUST0476,28,Female,Mumbai,Gold,62834,7,3274,6756,5.7,3.5,7,17.7,0,Debit Card
+CUST0477,41,Other,Bengaluru,Gold,78840,6,1396,2599,19.5,3.3,8,16.7,0,UPI
+CUST0478,21,Male,Delhi,Silver,69802,6,807,1360,22.7,2.4,7,36.3,0,Credit Card
+CUST0479,31,Female,Pune,Gold,53355,8,2654,7325,2.1,4.2,7,7.8,0,Credit Card
+CUST0480,54,Male,Mumbai,Regular,29737,2,606,487,18.1,1.9,7,11.9,0,Credit Card
+CUST0481,33,Female,Mumbai,Silver,40600,0,645,0,14.4,2.3,8,39.4,0,UPI
+CUST0482,44,Male,Hyderabad,Gold,47827,6,2782,5586,26.6,4.2,7,21.8,0,Credit Card
+CUST0483,32,Male,Mumbai,Regular,56795,5,1176,2315,25.5,4.4,9,25.7,0,UPI
+CUST0484,36,Male,Delhi,Silver,42912,5,1768,2877,11.9,2.2,9,24.2,0,Credit Card
+CUST0485,30,Female,Ahmedabad,Platinum,34221,11,1993,8518,6.8,3.5,8,24.2,0,UPI
+CUST0486,29,Female,Mumbai,Gold,29424,6,1062,2067,12.6,2.2,9,58.8,0,Cash on Delivery
+CUST0487,24,Male,Mumbai,Gold,20628,2,1155,747,14.9,3.0,6,19.1,2,UPI
+CUST0488,35,Male,Delhi,Regular,47536,3,981,813,18.9,3.4,5,9.3,0,Debit Card
+CUST0489,23,Male,Mumbai,Platinum,24076,14,1406,5331,13.0,3.9,7,27.3,1,Credit Card
+CUST0490,37,Female,Bengaluru,Regular,32990,2,1251,880,4.0,3.6,8,12.5,2,UPI
+CUST0491,41,Female,Delhi,Silver,44516,8,1194,3705,18.7,3.5,8,16.8,0,Debit Card
+CUST0492,34,Male,Bengaluru,Regular,26618,3,1189,972,18.5,1.9,8,22.9,0,Cash on Delivery
+CUST0493,28,Female,Pune,Gold,59215,6,2028,4888,26.4,3.7,8,10.6,1,Debit Card
+CUST0494,35,Female,Delhi,Gold,66064,7,2235,4847,14.2,3.9,7,12.9,2,Cash on Delivery
+CUST0495,28,Male,Bengaluru,Gold,41561,7,2343,5263,24.6,4.1,9,24.5,0,Credit Card
+CUST0496,39,Female,Mumbai,Silver,43696,2,1255,1002,19.8,2.3,9,12.6,2,Cash on Delivery
+CUST0497,18,Male,Bengaluru,Regular,62211,4,1188,1898,7.7,4.3,7,33.9,0,Cash on Delivery
+CUST0498,28,Female,Hyderabad,Silver,38434,2,1601,1081,4.5,1.6,9,9.5,1,Debit Card
+CUST0499,18,Male,Delhi,Silver,37128,3,523,465,10.0,2.7,9,9.5,0,Cash on Delivery
+CUST0500,18,Male,Bengaluru,Regular,74733,3,1443,1206,5.0,2.9,9,62.1,0,Debit Card
+CUST0501,43,Male,Pune,Silver,68800,6,1544,2735,14.3,1.6,10,6.7,0,Credit Card
+CUST0502,39,Female,Mumbai,Gold,63429,6,2408,5492,17.0,2.8,8,17.7,1,Credit Card
+CUST0503,25,Male,Mumbai,Silver,69587,3,845,771,11.6,3.5,9,60.0,0,UPI
+CUST0504,18,Male,Mumbai,Gold,14432,3,1664,1826,37.6,1.0,8,17.7,0,Debit Card
+CUST0505,18,Female,Ahmedabad,Regular,77723,1,695,196,5.1,2.7,8,43.2,1,UPI
+CUST0506,26,Female,Mumbai,Silver,59449,4,1982,2614,15.6,1.0,7,27.5,0,Debit Card
+CUST0507,53,Female,Hyderabad,Regular,71205,5,610,941,19.4,5.8,7,17.9,0,Credit Card
+CUST0508,35,Male,Mumbai,Regular,59356,2,745,498,5.3,3.5,9,16.5,0,UPI
+CUST0509,26,Male,Mumbai,Regular,52930,3,1377,1425,28.9,3.4,5,4.5,0,UPI
+CUST0510,35,Male,Pune,Regular,46769,3,844,1051,39.7,3.5,8,14.6,1,UPI
+CUST0511,18,Male,Pune,Regular,58976,5,745,1490,22.6,4.0,8,20.9,2,Credit Card
+CUST0512,28,Male,Hyderabad,Silver,46077,3,2122,2330,3.7,4.4,8,20.9,0,UPI
+CUST0513,32,Female,Ahmedabad,Regular,68490,5,1638,2257,20.0,1.2,8,89.4,0,UPI
+CUST0514,30,Female,Hyderabad,Regular,21857,4,1490,2403,14.2,4.8,8,21.6,0,UPI
+CUST0515,38,Male,Mumbai,Regular,41710,2,1571,1253,15.9,4.8,7,27.1,0,UPI
+CUST0516,34,Female,Delhi,Silver,90852,3,1316,1570,39.9,3.1,9,38.4,2,UPI
+CUST0517,37,Male,Mumbai,Regular,40104,0,1009,0,12.4,3.1,8,25.6,1,UPI
+CUST0518,25,Male,Ahmedabad,Regular,47465,2,838,467,23.9,1.0,10,17.0,0,Debit Card
+CUST0519,39,Female,Bengaluru,Silver,35231,2,1556,1169,3.7,1.6,10,17.1,3,Debit Card
+CUST0520,46,Male,Pune,Regular,58381,2,881,555,20.8,3.8,8,14.3,0,Net Banking
+CUST0521,22,Female,Mumbai,Gold,38011,4,1584,1948,3.5,4.7,8,24.0,0,UPI
+CUST0522,23,Other,Mumbai,Regular,48473,0,1415,0,11.7,4.1,9,16.1,1,UPI
+CUST0523,43,Male,Mumbai,Regular,68128,2,1809,1242,24.8,3.1,8,27.0,0,UPI
+CUST0524,29,Male,Ahmedabad,Regular,38723,2,1300,795,24.4,5.6,5,9.3,0,Credit Card
+CUST0525,44,Female,Hyderabad,Silver,66984,1,3081,1125,8.8,4.5,8,19.8,0,UPI
+CUST0526,27,Female,Ahmedabad,Regular,67622,0,818,0,16.7,2.7,10,49.4,0,UPI
+CUST0527,44,Female,Mumbai,Gold,72044,6,878,1764,19.6,5.9,8,15.6,1,Credit Card
+CUST0528,32,Female,Bengaluru,Regular,54670,3,1485,1154,25.1,1.8,10,59.6,0,UPI
+CUST0529,33,Female,Mumbai,Silver,113584,3,1049,1278,15.4,1.4,6,20.0,0,Credit Card
+CUST0530,45,Female,Bengaluru,Regular,72036,3,981,938,24.4,2.7,8,17.4,1,Credit Card
+CUST0531,28,Other,Pune,Regular,58173,3,523,510,29.0,2.3,8,19.4,2,Cash on Delivery
+CUST0532,23,Female,Mumbai,Regular,35357,3,754,737,13.4,2.7,8,14.7,1,UPI
+CUST0533,27,Female,Bengaluru,Silver,50156,9,772,2160,12.6,4.2,10,5.0,1,UPI
+CUST0534,35,Male,Mumbai,Regular,79100,2,917,665,10.0,3.2,7,31.9,0,Credit Card
+CUST0535,18,Male,Bengaluru,Platinum,84481,6,2033,3078,12.5,3.2,10,74.9,0,UPI
+CUST0536,37,Male,Delhi,Silver,80088,4,1506,2383,16.3,3.3,8,24.6,1,UPI
+CUST0537,26,Male,Mumbai,Platinum,66919,10,4040,10790,10.3,1.0,8,25.6,1,Credit Card
+CUST0538,41,Male,Ahmedabad,Regular,28142,2,1462,1218,27.0,1.3,10,16.0,1,UPI
+CUST0539,18,Male,Bengaluru,Gold,61256,10,961,3408,29.1,2.7,10,38.2,0,UPI
+CUST0540,24,Male,Hyderabad,Silver,28413,4,1872,1955,19.3,2.1,10,17.5,0,Debit Card
+CUST0541,18,Male,Delhi,Silver,23738,2,1520,1045,21.8,2.9,7,21.4,0,Debit Card
+CUST0542,24,Female,Delhi,Platinum,56544,12,2303,8435,2.1,5.0,8,6.5,0,UPI
+CUST0543,33,Female,Delhi,Silver,61941,12,1436,7045,16.1,3.1,7,12.8,0,Credit Card
+CUST0544,29,Female,Hyderabad,Gold,69164,4,2070,3113,9.3,1.5,8,22.9,1,Net Banking
+CUST0545,29,Female,Bengaluru,Silver,61446,3,1084,1088,10.3,2.2,9,32.5,0,UPI
+CUST0546,30,Male,Mumbai,Regular,62100,2,1019,655,22.8,5.3,6,33.1,0,Debit Card
+CUST0547,33,Female,Mumbai,Silver,33292,2,2384,1983,22.6,5.1,8,6.4,0,UPI
+CUST0548,22,Female,Bengaluru,Silver,50005,7,1079,2728,14.8,3.9,7,6.9,0,Cash on Delivery
+CUST0549,37,Female,Mumbai,Gold,23365,6,1233,2483,22.2,1.2,9,26.3,1,UPI
+CUST0550,37,Male,Mumbai,Gold,13936,5,1851,2928,7.2,3.6,7,11.1,0,UPI
+CUST0551,34,Female,Mumbai,Regular,66072,1,684,208,30.4,3.7,9,32.2,0,Net Banking
+CUST0552,36,Male,Bengaluru,Regular,37691,3,534,589,27.3,3.2,7,6.2,1,Debit Card
+CUST0553,34,Male,Mumbai,Regular,68577,1,952,331,11.7,2.5,10,16.9,0,UPI
+CUST0554,49,Female,Bengaluru,Silver,73059,1,2664,1043,10.7,2.7,10,17.6,0,Debit Card
+CUST0555,30,Male,Hyderabad,Regular,40233,3,1082,1111,20.5,2.4,8,24.6,0,Cash on Delivery
+CUST0556,28,Female,Hyderabad,Silver,63216,4,1563,2170,14.2,1.8,9,9.2,1,Credit Card
+CUST0557,24,Female,Pune,Silver,39438,2,593,391,6.4,4.9,7,5.0,0,UPI
+CUST0558,22,Male,Bengaluru,Gold,16928,6,2284,5168,16.9,4.3,8,20.1,1,UPI
+CUST0559,20,Male,Bengaluru,Regular,54343,1,1144,365,6.4,2.8,8,25.3,0,Cash on Delivery
+CUST0560,23,Female,Bengaluru,Silver,43053,3,1097,1290,15.4,3.6,7,34.6,1,UPI
+CUST0561,30,Male,Delhi,Regular,43638,3,1186,1083,4.0,3.7,8,14.3,1,UPI
+CUST0562,34,Female,Mumbai,Gold,89532,7,2041,5221,24.3,6.1,5,29.8,1,UPI
+CUST0563,31,Male,Ahmedabad,Regular,23009,3,705,844,14.6,4.3,7,24.7,1,UPI
+CUST0564,24,Male,Mumbai,Regular,59275,4,1265,1914,18.1,4.2,8,42.5,1,Credit Card
+CUST0565,39,Male,Hyderabad,Regular,33099,1,1819,559,29.8,3.2,8,17.4,0,UPI
+CUST0566,38,Male,Bengaluru,Gold,69257,8,1727,5080,26.9,2.7,10,5.8,1,UPI
+CUST0567,30,Female,Mumbai,Regular,57670,4,764,869,23.2,4.9,7,17.2,1,UPI
+CUST0568,25,Male,Delhi,Silver,59208,0,1346,0,2.6,4.0,7,19.1,2,UPI
+CUST0569,36,Male,Mumbai,Gold,34047,4,2720,4155,21.0,2.2,7,25.2,1,UPI
+CUST0570,33,Male,Delhi,Gold,37454,6,1135,2620,32.6,3.8,7,6.6,1,UPI
+CUST0571,18,Female,Bengaluru,Regular,69618,2,1403,712,7.7,4.2,10,14.7,1,Debit Card
+CUST0572,30,Female,Mumbai,Regular,85645,5,827,1687,7.4,1.0,10,31.6,1,UPI
+CUST0573,33,Female,Mumbai,Regular,61126,2,1218,790,15.7,2.0,8,16.8,1,UPI
+CUST0574,23,Female,Delhi,Regular,34949,3,868,1044,10.8,3.7,7,14.8,0,Credit Card
+CUST0575,33,Female,Mumbai,Silver,58440,7,1143,3051,28.2,1.0,7,62.1,1,Debit Card
+CUST0576,18,Female,Hyderabad,Regular,98122,1,2086,835,6.4,1.0,8,9.0,0,Debit Card
+CUST0577,43,Male,Delhi,Regular,53946,0,609,0,7.8,2.9,9,40.1,1,Net Banking
+CUST0578,42,Female,Delhi,Regular,79775,7,1349,3894,2.7,3.8,7,35.0,0,UPI
+CUST0579,29,Male,Mumbai,Silver,37934,3,3000,3194,12.1,3.9,7,15.5,0,UPI
+CUST0580,34,Male,Delhi,Regular,51200,3,1467,1267,6.7,5.2,6,17.6,0,UPI
+CUST0581,18,Male,Ahmedabad,Silver,63772,8,829,2089,10.4,3.3,9,17.6,0,UPI
+CUST0582,21,Female,Mumbai,Regular,59549,1,642,241,15.1,2.7,8,20.3,0,Net Banking
+CUST0583,28,Male,Pune,Platinum,37439,4,1750,1933,34.8,1.6,8,12.2,1,Credit Card
+CUST0584,21,Male,Mumbai,Silver,36619,1,1549,627,18.1,2.7,8,13.6,2,Debit Card
+CUST0585,37,Male,Pune,Regular,70777,6,1209,2062,14.9,4.1,10,14.3,1,Net Banking
+CUST0586,49,Male,Delhi,Regular,74639,6,645,1533,15.9,4.1,9,14.6,2,Cash on Delivery
+CUST0587,20,Male,Bengaluru,Regular,80731,3,762,756,28.2,3.5,10,14.7,0,UPI
+CUST0588,23,Male,Bengaluru,Regular,86275,1,782,305,25.3,3.9,6,4.2,0,Cash on Delivery
+CUST0589,33,Male,Pune,Regular,54558,4,1020,1672,30.3,4.8,7,19.2,0,Credit Card
+CUST0590,46,Female,Mumbai,Gold,46087,4,4373,5604,9.9,3.3,7,12.8,1,UPI
+CUST0591,20,Male,Mumbai,Silver,77669,3,980,1076,11.6,4.9,8,5.3,0,Credit Card
+CUST0592,33,Female,Hyderabad,Regular,65548,1,730,210,8.3,2.3,10,14.3,0,Cash on Delivery
+CUST0593,47,Male,Bengaluru,Silver,33333,3,901,1037,11.6,3.1,9,14.1,0,Debit Card
+CUST0594,18,Male,Pune,Regular,32361,7,1437,3889,10.7,2.6,7,41.2,0,UPI
+CUST0595,19,Female,Delhi,Platinum,61347,11,2359,7764,22.3,4.2,7,12.7,0,Cash on Delivery
+CUST0596,27,Male,Mumbai,Regular,48632,4,755,767,3.7,1.9,10,27.8,0,Credit Card
+CUST0597,26,Female,Mumbai,Gold,51498,5,1631,2625,15.5,2.8,9,44.2,0,Debit Card
+CUST0598,38,Female,Mumbai,Gold,72378,2,1363,759,14.7,1.0,9,12.0,0,UPI
+CUST0599,33,Female,Ahmedabad,Regular,66422,1,1246,481,22.7,3.9,8,17.5,0,UPI
+CUST0600,18,Female,Delhi,Regular,77268,5,3397,4985,10.3,4.8,7,55.4,0,UPI
+CUST0601,36,Female,Bengaluru,Regular,15301,1,1386,564,24.6,4.3,8,20.9,1,Cash on Delivery
+CUST0602,26,Female,Mumbai,Gold,56815,9,1827,6774,12.6,4.2,8,22.9,0,Net Banking
+CUST0603,42,Male,Mumbai,Silver,65199,6,1097,2642,11.0,4.2,8,13.8,0,UPI
+CUST0604,25,Male,Bengaluru,Silver,22995,4,825,1155,10.4,4.1,8,28.1,0,UPI
+CUST0605,25,Female,Pune,Gold,39557,11,2586,8379,6.1,4.0,8,17.5,2,UPI
+CUST0606,36,Male,Ahmedabad,Gold,36031,5,2527,4859,4.9,4.0,8,5.5,0,Debit Card
+CUST0607,38,Female,Delhi,Regular,52412,4,904,1327,24.7,2.4,8,14.3,0,Credit Card
+CUST0608,35,Male,Pune,Silver,82929,4,2414,3987,6.9,2.9,7,8.3,1,Credit Card
+CUST0609,18,Female,Delhi,Silver,90429,4,1463,1831,4.1,3.3,9,19.4,1,UPI
+CUST0610,36,Male,Ahmedabad,Regular,36529,4,1523,1583,17.1,2.8,7,9.9,1,UPI
+CUST0611,22,Female,Bengaluru,Gold,62005,5,2152,4480,20.1,1.2,10,24.6,0,Cash on Delivery
+CUST0612,33,Male,Delhi,Regular,62617,5,1021,1989,7.6,1.7,9,18.5,0,Credit Card
+CUST0613,18,Female,Ahmedabad,Regular,59365,1,737,211,14.8,3.5,9,8.0,0,UPI
+CUST0614,35,Male,Mumbai,Gold,59581,3,1787,1989,15.0,4.3,8,13.1,1,UPI
+CUST0615,24,Female,Hyderabad,Regular,57771,4,1567,1568,31.0,3.2,9,26.9,0,UPI
+CUST0616,19,Male,Mumbai,Regular,84064,1,889,305,22.1,6.7,6,38.0,1,UPI
+CUST0617,37,Male,Delhi,Regular,72947,1,1323,411,33.0,2.1,9,10.0,0,UPI
+CUST0618,33,Male,Delhi,Silver,31857,9,920,2596,9.9,3.8,9,8.8,0,Debit Card
+CUST0619,25,Male,Bengaluru,Gold,67119,5,2637,3834,26.5,4.8,5,64.0,0,UPI
+CUST0620,44,Other,Bengaluru,Regular,68955,2,1255,742,15.3,4.5,10,17.9,1,UPI
+CUST0621,27,Female,Bengaluru,Regular,57984,3,664,649,18.3,4.0,10,19.1,1,Credit Card
+CUST0622,31,Female,Mumbai,Regular,73497,3,1001,875,2.5,4.5,9,11.1,0,UPI
+CUST0623,33,Female,Mumbai,Platinum,55573,5,3549,5816,18.6,3.3,9,20.7,1,Credit Card
+CUST0624,25,Female,Mumbai,Regular,55809,6,648,1346,6.9,5.3,8,54.9,0,Cash on Delivery
+CUST0625,35,Male,Bengaluru,Platinum,54304,8,1531,4514,4.9,4.8,7,21.2,0,UPI
+CUST0626,26,Other,Pune,Gold,13653,9,1845,6025,5.1,2.1,9,36.0,0,Debit Card
+CUST0627,27,Other,Mumbai,Regular,50472,1,2695,782,5.5,3.6,9,18.3,1,UPI
+CUST0628,43,Male,Hyderabad,Gold,39303,7,1432,2571,19.9,1.3,8,9.2,0,UPI
+CUST0629,22,Male,Pune,Silver,29457,5,1785,3470,27.1,5.1,6,11.5,0,UPI
+CUST0630,18,Male,Pune,Silver,79246,4,1617,2557,26.1,3.5,7,8.7,1,Debit Card
+CUST0631,45,Male,Pune,Regular,61580,4,859,1420,9.7,4.9,8,20.7,0,UPI
+CUST0632,54,Female,Mumbai,Gold,51433,8,2033,6667,10.5,3.1,7,39.9,1,Debit Card
+CUST0633,27,Male,Delhi,Gold,41269,7,1574,3918,5.9,1.0,9,20.0,0,UPI
+CUST0634,18,Male,Pune,Gold,57627,5,1635,3262,19.8,6.5,6,14.7,0,Credit Card
+CUST0635,28,Female,Mumbai,Platinum,70837,6,1195,2328,14.6,3.4,7,10.8,0,UPI
+CUST0636,28,Female,Ahmedabad,Regular,36288,2,1089,830,29.7,1.9,6,22.7,1,UPI
+CUST0637,29,Other,Hyderabad,Gold,51908,4,2772,4537,17.3,4.6,6,8.0,0,Credit Card
+CUST0638,21,Other,Delhi,Gold,68493,8,1946,5958,7.0,5.7,7,8.6,0,UPI
+CUST0639,36,Male,Hyderabad,Regular,15216,3,1739,1666,36.2,2.9,9,32.3,1,UPI
+CUST0640,36,Male,Hyderabad,Regular,50906,2,1404,879,28.3,3.1,9,15.0,1,Credit Card
+CUST0641,18,Female,Pune,Regular,43843,1,1073,320,26.0,3.5,9,14.8,0,Debit Card
+CUST0642,37,Female,Bengaluru,Gold,49457,5,1460,2272,31.3,1.8,8,16.1,0,Debit Card
+CUST0643,49,Male,Bengaluru,Regular,42469,2,897,694,5.6,2.3,8,28.9,1,UPI
+CUST0644,33,Male,Mumbai,Silver,54615,6,782,1722,23.2,5.4,7,20.0,0,UPI
+CUST0645,28,Male,Mumbai,Regular,88549,1,983,287,31.1,3.0,8,11.1,0,UPI
+CUST0646,30,Male,Mumbai,Regular,45845,0,1170,0,13.5,2.2,10,11.4,2,UPI
+CUST0647,37,Female,Delhi,Silver,57543,6,2980,5601,22.9,2.6,9,15.9,2,UPI
+CUST0648,18,Male,Delhi,Regular,89900,0,1373,0,9.4,4.5,9,21.9,0,UPI
+CUST0649,32,Female,Delhi,Gold,41550,9,1321,3706,25.1,1.0,9,17.6,0,UPI
+CUST0650,27,Female,Pune,Regular,86479,3,601,607,31.4,3.5,9,16.6,0,Credit Card
+CUST0651,48,Female,Mumbai,Gold,52101,10,1742,6474,12.6,6.3,9,18.5,1,UPI
+CUST0652,29,Female,Pune,Regular,85856,2,1547,1151,7.4,5.7,7,17.6,0,UPI
+CUST0653,46,Male,Bengaluru,Platinum,66254,10,2188,8217,5.2,3.9,8,10.8,0,UPI
+CUST0654,21,Female,Ahmedabad,Silver,57835,0,1821,0,21.2,4.8,6,37.0,1,UPI
+CUST0655,36,Female,Hyderabad,Regular,50753,4,1019,1488,6.8,4.8,8,13.2,0,Debit Card
+CUST0656,34,Male,Ahmedabad,Regular,40143,7,1487,3016,18.1,3.0,10,19.6,0,UPI
+CUST0657,23,Male,Hyderabad,Regular,53440,4,562,741,8.2,4.4,7,4.7,1,UPI
+CUST0658,33,Female,Ahmedabad,Silver,69050,4,2844,3950,21.5,5.4,8,15.7,0,Cash on Delivery
+CUST0659,42,Female,Bengaluru,Gold,51751,8,1191,3472,16.0,1.6,9,8.8,1,UPI
+CUST0660,28,Female,Mumbai,Regular,45984,3,1535,1851,15.4,3.9,8,9.5,1,UPI
+CUST0661,18,Male,Mumbai,Regular,47235,2,981,590,2.1,3.7,9,86.9,1,Debit Card
+CUST0662,31,Female,Pune,Silver,70857,5,1381,2699,13.1,3.3,9,21.2,0,Debit Card
+CUST0663,23,Female,Mumbai,Silver,75278,4,1310,1582,21.5,3.2,8,39.9,0,Cash on Delivery
+CUST0664,28,Female,Mumbai,Silver,39324,6,1614,3312,11.9,3.5,9,31.4,2,Cash on Delivery
+CUST0665,30,Male,Ahmedabad,Regular,39297,2,1333,1034,13.4,3.6,9,34.1,0,Debit Card
+CUST0666,18,Female,Mumbai,Silver,59208,5,2262,4191,5.2,4.6,7,15.8,0,UPI
+CUST0667,18,Male,Ahmedabad,Platinum,81023,6,4335,10243,20.3,3.8,8,51.1,0,Credit Card
+CUST0668,35,Female,Delhi,Regular,73774,2,1264,975,14.3,3.0,6,31.2,0,UPI
+CUST0669,26,Male,Delhi,Regular,28215,3,2259,2006,3.6,2.2,9,18.5,1,Credit Card
+CUST0670,18,Female,Delhi,Regular,46983,2,1144,951,14.2,2.6,10,21.4,1,Cash on Delivery
+CUST0671,38,Female,Pune,Silver,34319,3,2280,2778,17.9,3.5,8,16.5,1,UPI
+CUST0672,33,Female,Delhi,Regular,46917,4,1317,1695,13.2,2.3,9,18.6,0,Cash on Delivery
+CUST0673,25,Male,Mumbai,Platinum,82484,13,1906,6389,12.4,4.4,7,17.5,1,Credit Card
+CUST0674,19,Male,Ahmedabad,Silver,24971,1,1565,470,17.8,3.7,7,23.1,3,UPI
+CUST0675,39,Female,Pune,Silver,21242,5,1791,3487,9.8,4.6,8,55.8,0,Cash on Delivery
+CUST0676,34,Female,Mumbai,Gold,36257,5,1874,3827,17.2,2.4,8,8.2,0,Credit Card
+CUST0677,52,Male,Delhi,Regular,57459,3,1308,1525,30.3,2.2,8,37.8,1,Credit Card
+CUST0678,35,Male,Delhi,Gold,63794,5,2733,4320,19.2,4.6,6,14.2,0,Credit Card
+CUST0679,34,Female,Pune,Regular,60312,2,1089,565,10.0,3.4,9,41.1,0,UPI
+CUST0680,29,Female,Bengaluru,Silver,74338,3,421,425,13.9,2.9,9,14.5,1,UPI
+CUST0681,38,Male,Mumbai,Platinum,18501,10,4857,15189,13.5,4.1,7,23.5,0,Debit Card
+CUST0682,37,Male,Delhi,Gold,74578,7,1677,3175,17.8,4.0,8,16.2,2,Cash on Delivery
+CUST0683,42,Male,Mumbai,Gold,46070,6,1345,2160,5.2,1.6,9,5.8,0,Debit Card
+CUST0684,26,Male,Mumbai,Regular,65898,1,686,189,7.7,4.9,9,55.7,1,Cash on Delivery
+CUST0685,27,Male,Mumbai,Gold,26855,4,1650,1876,13.3,2.7,8,9.8,0,Cash on Delivery
+CUST0686,27,Female,Pune,Silver,52094,2,1145,860,33.1,5.3,8,19.0,1,UPI
+CUST0687,38,Female,Pune,Silver,56489,5,1064,1668,11.6,1.5,8,9.1,0,Debit Card
+CUST0688,44,Female,Pune,Regular,73959,2,826,533,33.3,3.6,9,7.5,0,Debit Card
+CUST0689,27,Female,Mumbai,Regular,21880,2,1374,961,14.0,3.0,9,15.8,0,UPI
+CUST0690,27,Female,Mumbai,Silver,52584,3,3402,4185,4.6,1.0,10,12.2,0,UPI
+CUST0691,34,Female,Bengaluru,Regular,31381,1,1553,584,17.5,4.0,9,8.4,0,Debit Card
+CUST0692,29,Male,Mumbai,Gold,61604,6,3045,6534,19.8,1.0,10,17.6,2,Net Banking
+CUST0693,40,Female,Delhi,Gold,66767,6,1621,3637,18.1,2.8,10,6.9,0,Net Banking
+CUST0694,18,Female,Ahmedabad,Platinum,76456,8,2508,7421,11.4,4.6,9,19.5,0,Credit Card
+CUST0695,24,Male,Pune,Regular,41834,3,1316,1441,10.8,2.5,7,16.6,0,Debit Card
+CUST0696,24,Male,Hyderabad,Platinum,69617,8,1819,4842,15.3,2.1,8,3.6,0,Credit Card
+CUST0697,18,Male,Mumbai,Regular,77857,1,920,317,2.6,4.2,6,12.8,0,Cash on Delivery
+CUST0698,22,Male,Mumbai,Regular,20778,5,1575,2574,7.8,2.9,10,24.4,0,Credit Card
+CUST0699,23,Male,Delhi,Gold,63635,8,3003,7587,28.3,2.7,6,9.0,0,Cash on Delivery
+CUST0700,29,Female,Delhi,Regular,70212,1,1132,334,14.3,4.8,5,25.1,0,Net Banking
+CUST0701,41,Female,Hyderabad,Regular,47084,4,666,824,17.8,1.7,8,23.8,2,UPI
+CUST0702,29,Male,Mumbai,Regular,28995,2,972,625,12.2,2.6,6,9.3,1,Net Banking
+CUST0703,22,Female,Delhi,Silver,69916,5,792,1372,2.3,4.3,8,17.9,0,Debit Card
+CUST0704,30,Female,Pune,Gold,29209,7,1961,4575,9.2,1.7,8,30.8,1,UPI
+CUST0705,40,Female,Pune,Regular,48611,4,1225,1313,28.1,5.4,5,10.2,0,UPI
+CUST0706,22,Female,Mumbai,Regular,51238,2,982,602,3.6,2.9,8,15.7,1,Debit Card
+CUST0707,23,Female,Ahmedabad,Silver,65595,9,1605,4517,39.9,4.3,8,38.0,1,UPI
+CUST0708,36,Female,Mumbai,Regular,40094,4,1310,1927,24.9,4.3,5,10.3,1,UPI
+CUST0709,29,Male,Hyderabad,Gold,38993,3,2116,1939,18.2,3.0,7,24.3,0,Credit Card
+CUST0710,37,Male,Bengaluru,Platinum,53879,4,1449,1457,21.1,2.6,8,8.9,1,UPI
+CUST0711,31,Female,Delhi,Gold,71121,4,1708,1804,13.5,3.1,8,16.2,1,UPI
+CUST0712,37,Male,Delhi,Gold,95462,5,2257,3756,29.9,4.1,7,24.1,1,Debit Card
+CUST0713,22,Female,Hyderabad,Silver,23358,3,2814,2376,23.5,2.0,10,3.8,0,UPI
+CUST0714,31,Male,Mumbai,Gold,57991,9,1695,5071,2.7,1.7,10,12.7,1,Credit Card
+CUST0715,29,Male,Mumbai,Regular,31356,2,1386,958,11.0,5.1,7,23.8,0,UPI
+CUST0716,20,Female,Bengaluru,Regular,71357,1,1591,645,13.5,2.3,7,20.8,0,Cash on Delivery
+CUST0717,18,Male,Pune,Silver,34168,6,1335,2878,12.9,3.6,8,12.8,0,UPI
+CUST0718,37,Other,Mumbai,Regular,39182,3,1782,1364,27.3,2.9,8,8.8,1,Debit Card
+CUST0719,28,Male,Mumbai,Gold,40804,5,3148,4934,7.9,3.0,8,27.1,1,Debit Card
+CUST0720,22,Other,Pune,Silver,50552,4,2589,3959,7.1,5.0,8,14.6,0,Cash on Delivery
+CUST0721,30,Male,Mumbai,Platinum,58141,11,2910,9393,30.3,3.1,10,25.7,1,Credit Card
+CUST0722,41,Female,Mumbai,Regular,61190,4,2964,4792,7.0,2.8,6,23.0,0,Credit Card
+CUST0723,18,Male,Ahmedabad,Silver,51890,2,1120,757,12.5,2.9,8,13.5,0,UPI
+CUST0724,18,Male,Pune,Gold,26732,7,4637,8615,6.3,2.6,10,36.1,0,Credit Card
+CUST0725,23,Male,Ahmedabad,Regular,65828,5,1519,2205,20.3,2.4,8,12.2,0,Credit Card
+CUST0726,44,Female,Ahmedabad,Silver,50994,4,2546,4084,18.0,2.6,9,39.0,0,Credit Card
+CUST0727,34,Male,Mumbai,Silver,74073,5,1268,2633,9.2,5.3,8,42.5,0,UPI
+CUST0728,38,Female,Delhi,Platinum,38553,5,3422,6739,11.5,4.1,9,35.6,0,Credit Card
+CUST0729,21,Male,Bengaluru,Gold,21557,3,3460,3150,12.3,2.8,10,16.0,0,Credit Card
+CUST0730,21,Female,Delhi,Regular,51354,1,697,264,12.5,4.4,8,94.3,0,Credit Card
+CUST0731,35,Male,Mumbai,Regular,76623,1,1027,295,22.4,1.2,7,19.9,1,Debit Card
+CUST0732,32,Male,Mumbai,Silver,55058,6,590,1112,6.3,4.9,6,21.1,1,UPI
+CUST0733,36,Female,Mumbai,Regular,48206,3,1021,1122,18.3,4.8,10,17.7,0,Credit Card
+CUST0734,29,Male,Bengaluru,Regular,35463,1,781,321,1.1,6.0,5,8.6,0,UPI
+CUST0735,34,Female,Ahmedabad,Regular,85398,2,1004,649,21.5,4.5,8,41.8,0,Debit Card
+CUST0736,32,Male,Delhi,Regular,32438,0,3756,0,13.7,3.7,5,12.4,0,Debit Card
+CUST0737,38,Male,Delhi,Silver,38218,7,2983,5986,3.6,4.8,6,32.7,1,UPI
+CUST0738,38,Female,Ahmedabad,Regular,62831,5,601,953,11.8,2.4,10,38.2,0,UPI
+CUST0739,18,Female,Delhi,Silver,16736,3,1831,1431,11.2,2.7,8,26.6,0,Debit Card
+CUST0740,18,Female,Mumbai,Regular,76217,4,1539,2420,16.2,3.1,8,11.5,1,Debit Card
+CUST0741,40,Female,Hyderabad,Silver,63860,3,1258,958,1.2,4.9,6,14.4,0,UPI
+CUST0742,42,Male,Pune,Regular,69085,4,1186,1726,28.7,2.1,6,3.2,1,Credit Card
+CUST0743,22,Male,Mumbai,Gold,62604,4,2134,2523,8.5,2.0,10,16.7,1,UPI
+CUST0744,18,Female,Bengaluru,Regular,48939,2,625,412,4.1,3.5,8,30.3,1,Debit Card
+CUST0745,32,Male,Ahmedabad,Silver,31800,4,940,1116,10.6,4.1,6,15.4,0,UPI
+CUST0746,39,Female,Mumbai,Regular,49339,1,1183,375,11.1,2.3,9,12.3,0,Debit Card
+CUST0747,47,Male,Bengaluru,Regular,33471,1,1147,391,7.9,4.0,8,14.8,0,Debit Card
+CUST0748,36,Female,Mumbai,Regular,61237,3,817,875,7.9,4.9,7,39.7,0,Cash on Delivery
+CUST0749,28,Male,Mumbai,Gold,67329,7,1361,3875,2.4,4.7,7,17.4,0,Net Banking
+CUST0750,23,Male,Mumbai,Gold,80059,4,1830,2235,19.0,3.6,8,60.2,1,Credit Card
+CUST0751,31,Female,Delhi,Regular,59064,4,1596,2218,3.4,3.1,7,12.4,0,Debit Card
+CUST0752,28,Male,Hyderabad,Regular,69567,3,1065,1279,10.2,5.4,7,20.7,0,Debit Card
+CUST0753,22,Other,Mumbai,Silver,46354,8,2867,6843,25.6,3.2,9,13.6,1,Cash on Delivery
+CUST0754,49,Female,Mumbai,Silver,42913,7,1083,2988,7.0,4.4,9,69.3,0,Credit Card
+CUST0755,47,Female,Mumbai,Regular,61000,2,1193,977,17.3,5.6,8,20.2,0,UPI
+CUST0756,41,Male,Mumbai,Gold,44657,5,1637,3202,9.9,4.2,7,71.8,0,Net Banking
+CUST0757,23,Female,Bengaluru,Silver,57115,4,1856,2561,19.6,2.0,10,13.7,0,UPI
+CUST0758,39,Female,Delhi,Silver,31837,3,1044,1160,19.9,1.7,9,48.6,1,Net Banking
+CUST0759,37,Female,Delhi,Regular,35249,2,2471,1632,20.4,2.8,7,19.4,0,UPI
+CUST0760,35,Male,Pune,Regular,64073,4,541,756,27.1,4.1,7,31.0,2,Credit Card
+CUST0761,42,Female,Bengaluru,Regular,68847,2,2261,1865,7.3,3.8,9,8.1,0,Net Banking
+CUST0762,37,Female,Mumbai,Gold,33273,6,1973,3455,11.6,6.0,8,22.6,1,Debit Card
+CUST0763,38,Male,Mumbai,Regular,64742,4,1387,2120,18.5,3.7,6,9.0,0,Credit Card
+CUST0764,37,Male,Ahmedabad,Gold,41878,8,3328,8902,4.0,2.8,10,21.3,0,UPI
+CUST0765,34,Male,Delhi,Gold,52314,4,2724,3045,11.4,1.8,10,6.7,0,UPI
+CUST0766,18,Female,Ahmedabad,Gold,78922,2,1398,999,7.4,4.7,8,16.9,0,UPI
+CUST0767,32,Male,Ahmedabad,Regular,67342,3,1415,1622,37.3,3.2,8,36.7,1,Credit Card
+CUST0768,26,Male,Delhi,Regular,67122,3,2410,2493,38.5,1.3,10,25.7,0,Credit Card
+CUST0769,19,Female,Ahmedabad,Regular,88267,3,758,886,5.3,3.2,7,8.1,0,UPI
+CUST0770,46,Male,Pune,Silver,38626,1,3530,1098,22.8,2.0,9,5.2,0,UPI
+CUST0771,47,Female,Mumbai,Gold,33268,10,2234,8987,10.7,2.7,7,24.9,2,Cash on Delivery
+CUST0772,43,Female,Mumbai,Regular,38280,1,917,328,28.3,3.2,6,50.3,1,Cash on Delivery
+CUST0773,33,Female,Mumbai,Gold,47164,6,1306,3008,17.0,2.1,10,9.6,0,Credit Card
+CUST0774,43,Male,Mumbai,Regular,12000,1,1002,296,15.5,2.6,8,70.4,0,Net Banking
+CUST0775,31,Female,Pune,Regular,48059,1,484,157,12.8,2.3,9,17.9,1,Credit Card
+CUST0776,33,Female,Delhi,Regular,41653,3,924,1113,7.5,2.3,9,5.0,0,UPI
+CUST0777,21,Female,Hyderabad,Gold,66891,4,1701,1759,16.4,1.9,8,6.5,0,UPI
+CUST0778,35,Female,Bengaluru,Regular,58696,2,701,445,27.1,2.6,8,29.7,0,Cash on Delivery
+CUST0779,32,Female,Mumbai,Regular,40587,2,1506,1145,11.6,2.1,9,19.6,1,UPI
+CUST0780,19,Male,Delhi,Gold,63209,4,1733,2592,20.3,3.9,7,47.2,0,UPI
+CUST0781,31,Female,Pune,Silver,65742,7,1110,3045,30.1,3.5,7,8.3,0,Net Banking
+CUST0782,30,Female,Mumbai,Regular,37398,6,960,2150,32.5,4.7,8,19.4,0,Debit Card
+CUST0783,47,Male,Mumbai,Regular,42633,4,1277,2083,14.8,5.6,7,18.1,0,Debit Card
+CUST0784,39,Female,Pune,Silver,12000,4,1495,1992,5.5,4.0,8,16.4,0,Debit Card
+CUST0785,31,Male,Mumbai,Regular,31277,0,819,0,32.3,3.8,9,14.0,1,Debit Card
+CUST0786,33,Female,Hyderabad,Regular,37893,3,1160,1362,17.6,4.1,7,14.2,1,UPI
+CUST0787,31,Female,Delhi,Silver,53409,0,1419,0,11.5,3.8,8,20.2,0,Debit Card
+CUST0788,29,Female,Delhi,Regular,34038,6,682,1093,10.3,3.3,10,21.9,1,UPI
+CUST0789,21,Female,Mumbai,Silver,42244,5,1285,1999,2.7,3.2,7,21.2,0,UPI
+CUST0790,30,Female,Hyderabad,Regular,28719,4,1403,1920,21.6,1.9,6,39.4,0,Net Banking
+CUST0791,24,Male,Delhi,Regular,55251,3,1399,1577,8.4,4.2,8,8.2,0,UPI
+CUST0792,20,Female,Mumbai,Regular,60089,3,999,1021,10.9,3.2,7,5.5,0,UPI
+CUST0793,36,Male,Delhi,Regular,59645,5,1462,2775,14.3,5.0,6,34.9,0,UPI
+CUST0794,35,Male,Bengaluru,Regular,52235,2,729,568,33.6,4.3,9,9.7,0,Cash on Delivery
+CUST0795,18,Female,Pune,Regular,22720,3,738,651,21.2,2.4,8,14.1,2,Net Banking
+CUST0796,30,Male,Mumbai,Gold,40221,3,1710,1809,21.7,4.8,6,12.1,2,UPI
+CUST0797,40,Female,Bengaluru,Gold,44261,11,3564,13441,21.6,1.0,10,11.9,0,UPI
+CUST0798,41,Female,Mumbai,Regular,44337,2,1178,678,14.9,5.6,5,7.0,1,Debit Card
+CUST0799,40,Female,Mumbai,Silver,53425,5,1292,2142,5.6,1.5,9,12.4,1,Credit Card
+CUST0800,31,Male,Mumbai,Silver,79085,2,2773,1894,9.3,3.8,5,27.5,1,UPI
+CUST0801,23,Male,Ahmedabad,Gold,67430,2,1684,1301,26.3,3.7,8,18.0,0,UPI
+CUST0802,21,Female,Mumbai,Regular,33237,2,2812,1838,15.3,4.6,7,25.0,0,Credit Card
+CUST0803,34,Male,Pune,Regular,64890,2,887,467,9.5,2.8,9,13.0,1,UPI
+CUST0804,34,Male,Pune,Regular,64166,4,719,953,35.1,1.0,9,32.4,0,Debit Card
+CUST0805,43,Female,Hyderabad,Regular,36685,1,1026,400,21.8,2.8,10,12.9,1,UPI
+CUST0806,41,Male,Bengaluru,Regular,68128,0,991,0,19.9,2.9,8,4.6,1,Cash on Delivery
+CUST0807,30,Male,Ahmedabad,Gold,48953,5,1353,2051,16.3,1.0,7,22.1,0,Debit Card
+CUST0808,20,Male,Mumbai,Gold,25211,5,5667,11433,10.6,3.3,8,29.6,0,Credit Card
+CUST0809,28,Other,Mumbai,Regular,60649,2,1258,694,16.3,1.9,8,12.5,2,Debit Card
+CUST0810,33,Female,Bengaluru,Regular,56122,4,1337,1628,12.9,4.0,5,39.2,1,UPI
+CUST0811,29,Female,Pune,Regular,47674,3,906,878,13.3,2.9,7,10.4,0,UPI
+CUST0812,26,Male,Hyderabad,Silver,51288,6,1138,2547,2.7,5.7,6,27.8,0,Credit Card
+CUST0813,33,Female,Hyderabad,Silver,38337,4,2231,3474,25.1,2.9,10,56.0,1,Debit Card
+CUST0814,26,Female,Bengaluru,Regular,63592,5,544,707,18.4,3.7,9,18.4,1,Cash on Delivery
+CUST0815,25,Other,Ahmedabad,Gold,51174,1,1176,449,17.7,2.9,8,15.5,2,UPI
+CUST0816,34,Female,Bengaluru,Platinum,55163,6,2163,4803,19.9,1.2,10,16.8,0,Debit Card
+CUST0817,27,Female,Mumbai,Silver,58786,2,2557,2041,34.3,2.9,6,51.9,2,UPI
+CUST0818,33,Male,Bengaluru,Silver,30063,6,1239,2974,12.5,4.1,7,23.4,0,UPI
+CUST0819,33,Female,Mumbai,Silver,35009,5,1727,3278,6.7,4.0,8,72.5,1,UPI
+CUST0820,21,Female,Hyderabad,Regular,12000,2,1113,627,25.7,2.8,9,21.6,1,Cash on Delivery
+CUST0821,27,Other,Mumbai,Regular,62730,1,1896,573,14.8,1.4,8,11.8,1,Credit Card
+CUST0822,44,Female,Pune,Silver,28968,4,745,1210,15.3,4.0,8,12.3,1,Credit Card
+CUST0823,21,Female,Bengaluru,Regular,54519,0,1498,0,3.5,3.7,8,18.7,1,Debit Card
+CUST0824,18,Female,Mumbai,Gold,59049,9,1748,5346,21.7,4.3,7,4.8,1,UPI
+CUST0825,18,Male,Mumbai,Regular,63445,3,1622,1959,11.6,2.9,9,13.2,1,UPI
+CUST0826,31,Female,Delhi,Regular,29124,2,780,617,25.6,1.1,10,13.4,0,UPI
+CUST0827,31,Male,Mumbai,Regular,50762,2,1111,825,13.4,3.9,8,21.0,0,UPI
+CUST0828,30,Female,Bengaluru,Platinum,83735,3,2299,2738,17.9,3.2,10,63.6,0,Credit Card
+CUST0829,42,Female,Pune,Regular,84572,3,722,583,5.8,4.9,8,18.7,2,UPI
+CUST0830,18,Male,Mumbai,Regular,70759,1,642,242,8.5,3.2,10,5.2,0,Debit Card
+CUST0831,35,Male,Mumbai,Regular,58412,6,862,2125,27.9,3.1,7,9.9,0,Cash on Delivery
+CUST0832,45,Other,Delhi,Silver,32903,6,1531,2371,15.3,3.7,6,21.3,0,Cash on Delivery
+CUST0833,21,Female,Ahmedabad,Platinum,65654,9,1746,4513,22.5,2.5,8,19.1,0,UPI
+CUST0834,28,Male,Mumbai,Regular,48998,2,958,733,3.6,2.4,8,51.7,1,Credit Card
+CUST0835,24,Male,Ahmedabad,Gold,62650,8,861,2319,14.0,3.1,10,33.6,0,UPI
+CUST0836,23,Female,Bengaluru,Regular,39976,4,941,995,14.7,2.0,7,32.9,1,UPI
+CUST0837,28,Female,Delhi,Silver,48714,4,2229,2627,7.7,2.9,8,15.6,0,Credit Card
+CUST0838,44,Male,Delhi,Regular,55119,5,1479,2248,9.9,5.6,7,36.8,0,Credit Card
+CUST0839,48,Female,Delhi,Silver,56679,6,1398,2546,6.0,4.5,8,10.1,0,Debit Card
+CUST0840,28,Male,Hyderabad,Silver,61381,2,1606,1273,14.2,3.6,8,33.8,0,Cash on Delivery
+CUST0841,48,Other,Bengaluru,Silver,40995,8,1024,2952,14.3,5.1,7,15.0,0,UPI
+CUST0842,31,Female,Bengaluru,Regular,26478,3,2176,2432,12.4,2.2,10,7.0,1,Cash on Delivery
+CUST0843,47,Female,Pune,Gold,82871,1,4528,1142,16.0,6.3,8,26.5,0,UPI
+CUST0844,30,Female,Mumbai,Platinum,99296,7,2572,5784,8.0,2.6,8,44.6,0,Net Banking
+CUST0845,32,Female,Delhi,Regular,60501,4,3265,3957,20.2,5.7,6,13.8,0,Credit Card
+CUST0846,34,Female,Mumbai,Silver,26844,3,1090,1282,11.1,5.7,9,49.7,0,UPI
+CUST0847,60,Male,Mumbai,Gold,37309,9,1123,4134,9.1,1.0,8,6.1,0,UPI
+CUST0848,39,Female,Mumbai,Regular,61673,5,816,1308,17.6,5.0,9,8.3,0,UPI
+CUST0849,25,Male,Mumbai,Gold,77481,6,1733,4286,15.5,2.8,10,16.4,0,Debit Card
+CUST0850,40,Female,Bengaluru,Regular,28955,4,2905,2933,25.5,2.5,10,14.1,1,UPI
+CUST0851,28,Female,Bengaluru,Gold,49638,1,1688,514,14.3,3.9,9,11.7,0,Cash on Delivery
+CUST0852,27,Female,Pune,Regular,55723,4,767,1163,12.0,1.9,6,19.6,0,UPI
+CUST0853,39,Male,Mumbai,Regular,68427,1,754,234,4.5,3.8,6,12.8,0,Net Banking
+CUST0854,31,Female,Pune,Silver,45472,2,2341,1889,10.5,2.0,9,14.3,1,UPI
+CUST0855,34,Female,Pune,Silver,22288,5,2204,3156,26.9,3.4,7,21.6,1,Debit Card
+CUST0856,31,Male,Delhi,Gold,63803,7,1550,4151,15.3,4.9,7,11.7,0,Debit Card
+CUST0857,34,Male,Bengaluru,Platinum,73371,10,1092,3097,16.0,3.7,9,16.8,1,UPI
+CUST0858,35,Female,Bengaluru,Regular,50431,3,685,581,18.6,2.8,8,11.8,0,UPI
+CUST0859,18,Male,Bengaluru,Regular,59700,2,2266,1470,13.9,3.9,6,8.2,0,Credit Card
+CUST0860,37,Female,Ahmedabad,Regular,42985,2,1469,1197,17.2,1.4,10,29.6,0,Debit Card
+CUST0861,22,Female,Delhi,Regular,35930,0,1131,0,3.8,2.2,9,54.6,2,Debit Card
+CUST0862,18,Male,Bengaluru,Silver,71502,3,3179,3394,8.3,2.7,8,36.0,0,UPI
+CUST0863,30,Female,Bengaluru,Gold,59362,6,4325,6530,10.6,4.2,8,22.3,1,Cash on Delivery
+CUST0864,32,Female,Mumbai,Gold,61317,1,1872,486,33.1,3.7,8,11.9,1,Cash on Delivery
+CUST0865,25,Male,Ahmedabad,Regular,80540,2,1092,570,12.0,3.9,9,14.9,1,Debit Card
+CUST0866,38,Female,Pune,Regular,31958,5,861,1664,10.2,3.2,8,35.8,0,UPI
+CUST0867,19,Male,Mumbai,Silver,41512,4,1287,1490,13.9,2.2,10,4.1,3,UPI
+CUST0868,27,Male,Ahmedabad,Regular,55001,2,589,359,15.6,5.1,5,14.2,1,Net Banking
+CUST0869,26,Male,Delhi,Regular,41278,4,588,827,21.3,2.3,9,29.0,1,Debit Card
+CUST0870,31,Male,Mumbai,Regular,66880,3,534,556,10.4,3.7,7,8.6,0,Credit Card
+CUST0871,34,Male,Mumbai,Regular,48439,4,1735,2210,13.4,3.1,7,23.7,2,Cash on Delivery
+CUST0872,22,Other,Mumbai,Regular,33142,3,571,429,4.8,3.9,9,23.0,0,UPI
+CUST0873,38,Female,Bengaluru,Gold,53250,5,4310,7002,15.8,2.4,10,7.0,0,Debit Card
+CUST0874,32,Female,Mumbai,Regular,55236,2,809,604,15.7,4.5,5,19.0,0,Debit Card
+CUST0875,18,Male,Ahmedabad,Silver,69759,5,3008,4350,8.2,4.9,8,12.0,0,Cash on Delivery
+CUST0876,18,Male,Ahmedabad,Silver,59470,4,1244,1831,12.5,4.4,8,23.6,1,Debit Card
+CUST0877,31,Female,Bengaluru,Gold,60762,6,984,1491,28.9,3.4,7,27.8,0,Credit Card
+CUST0878,29,Male,Bengaluru,Regular,58086,6,1886,4542,7.2,2.7,7,23.3,1,UPI
+CUST0879,30,Female,Mumbai,Regular,48424,0,1982,0,20.6,6.7,4,18.9,0,Cash on Delivery
+CUST0880,31,Male,Mumbai,Regular,38392,4,752,753,17.1,2.0,8,21.7,0,Debit Card
+CUST0881,33,Female,Delhi,Regular,57488,1,957,312,32.3,4.3,7,8.4,0,UPI
+CUST0882,40,Female,Mumbai,Regular,45671,3,752,720,15.7,3.6,9,17.6,0,Net Banking
+CUST0883,21,Female,Mumbai,Gold,84107,5,1806,3525,4.5,3.1,8,10.7,1,UPI
+CUST0884,20,Female,Pune,Regular,77501,3,1151,1174,26.8,3.4,7,35.2,4,UPI
+CUST0885,21,Female,Mumbai,Regular,64024,5,949,1670,19.0,2.6,9,28.1,1,Net Banking
+CUST0886,34,Female,Pune,Regular,59191,2,512,291,24.2,3.7,7,28.0,0,Debit Card
+CUST0887,42,Female,Delhi,Gold,50329,9,1489,3522,11.5,3.6,7,54.8,1,Cash on Delivery
+CUST0888,27,Female,Hyderabad,Gold,28039,7,2553,6530,8.5,6.5,4,14.5,1,Cash on Delivery
+CUST0889,18,Female,Bengaluru,Gold,47893,6,1740,3690,36.2,4.5,8,12.6,2,Credit Card
+CUST0890,18,Female,Hyderabad,Silver,53927,3,1264,1474,14.1,3.8,8,14.3,0,UPI
+CUST0891,24,Female,Pune,Silver,56360,5,981,1917,45.4,3.9,8,6.4,0,Cash on Delivery
+CUST0892,26,Female,Hyderabad,Silver,60921,6,1122,2391,11.5,5.5,6,6.7,0,Credit Card
+CUST0893,27,Female,Bengaluru,Regular,69505,4,1988,2702,20.6,2.0,9,27.0,0,Credit Card
+CUST0894,31,Female,Mumbai,Silver,38849,3,898,1084,16.9,3.0,6,7.3,0,Credit Card
+CUST0895,28,Female,Ahmedabad,Gold,39022,7,2572,6905,14.6,1.0,8,9.0,0,UPI
+CUST0896,40,Male,Mumbai,Regular,79566,5,1122,2228,8.1,3.9,8,16.8,1,UPI
+CUST0897,25,Other,Mumbai,Silver,66649,4,1607,2674,7.7,4.3,8,13.8,1,Credit Card
+CUST0898,23,Male,Mumbai,Silver,44575,4,1066,1353,22.3,2.0,7,32.0,1,Debit Card
+CUST0899,35,Male,Pune,Silver,49963,6,1251,2773,29.2,5.0,6,18.7,1,Credit Card
+CUST0900,18,Male,Pune,Regular,50048,3,1097,1200,15.2,2.3,8,10.7,0,UPI
+CUST0901,35,Female,Bengaluru,Silver,52600,8,1165,2601,18.0,2.8,10,33.8,0,UPI
+CUST0902,32,Male,Hyderabad,Gold,60981,4,2184,3111,26.3,3.3,7,28.9,2,Debit Card
+CUST0903,30,Male,Mumbai,Regular,100165,3,1333,1285,8.1,5.2,7,7.2,1,UPI
+CUST0904,45,Male,Bengaluru,Regular,55605,8,2740,7126,36.9,2.1,9,21.2,0,Credit Card
+CUST0905,25,Male,Pune,Regular,64589,3,1236,1038,31.9,3.6,8,11.3,0,Debit Card
+CUST0906,50,Female,Hyderabad,Regular,19957,4,493,738,29.4,4.2,8,11.1,0,UPI
+CUST0907,29,Male,Mumbai,Platinum,42787,10,3912,14331,4.7,3.9,6,60.7,0,Credit Card
+CUST0908,20,Male,Mumbai,Silver,75347,2,1331,902,14.3,4.0,7,19.5,1,Cash on Delivery
+CUST0909,32,Female,Bengaluru,Regular,59644,1,2561,707,12.9,4.2,9,15.6,1,UPI
+CUST0910,21,Male,Delhi,Regular,12000,2,2040,1399,2.2,2.5,10,19.0,0,UPI
+CUST0911,24,Female,Hyderabad,Platinum,64806,15,1941,7765,3.5,5.3,8,31.8,0,UPI
+CUST0912,35,Other,Bengaluru,Regular,88445,3,1490,1370,6.7,3.1,10,11.4,0,Debit Card
+CUST0913,36,Male,Delhi,Silver,14078,3,1130,1058,11.7,2.9,6,12.7,0,Cash on Delivery
+CUST0914,25,Female,Pune,Regular,80868,5,1101,2187,11.3,4.9,6,27.6,1,Debit Card
+CUST0915,40,Male,Mumbai,Regular,12000,4,1461,1866,30.6,2.4,8,6.7,0,Net Banking
+CUST0916,41,Female,Mumbai,Silver,69822,5,2314,4047,1.4,3.6,10,34.3,0,Debit Card
+CUST0917,44,Male,Mumbai,Regular,51836,4,1602,2536,27.6,2.3,8,6.3,0,UPI
+CUST0918,36,Male,Pune,Silver,12000,3,1496,1440,4.9,6.3,7,15.3,0,UPI
+CUST0919,43,Male,Bengaluru,Regular,60477,5,3122,6202,9.5,6.1,7,6.4,1,Debit Card
+CUST0920,18,Male,Pune,Gold,73866,6,1630,2667,23.1,3.1,9,9.1,2,Debit Card
+CUST0921,28,Female,Bengaluru,Gold,58914,6,967,1803,7.9,3.8,8,41.8,2,Credit Card
+CUST0922,23,Female,Bengaluru,Silver,63112,6,800,1276,5.8,3.2,7,35.5,1,Credit Card
+CUST0923,32,Female,Delhi,Regular,44178,2,2043,1403,7.9,2.8,5,38.0,1,UPI
+CUST0924,26,Female,Delhi,Silver,16634,7,1404,4025,11.7,3.3,10,7.0,2,UPI
+CUST0925,30,Female,Pune,Platinum,65145,9,2566,8302,19.9,3.1,7,9.1,0,Credit Card
+CUST0926,48,Female,Pune,Regular,85245,3,876,931,25.4,1.3,7,22.4,2,Debit Card
+CUST0927,29,Female,Bengaluru,Regular,73462,4,910,1079,7.2,3.5,8,28.7,1,Debit Card
+CUST0928,35,Female,Bengaluru,Gold,14230,7,1365,3872,25.4,3.1,9,10.7,0,UPI
+CUST0929,29,Male,Pune,Regular,23217,0,1341,0,17.4,3.6,9,12.4,2,Cash on Delivery
+CUST0930,32,Female,Pune,Silver,35927,5,1392,2050,3.5,3.1,10,8.6,0,UPI
+CUST0931,31,Male,Delhi,Gold,21733,6,2281,5674,14.1,2.7,7,52.9,0,UPI
+CUST0932,35,Female,Delhi,Regular,52840,1,1269,407,24.1,4.3,6,13.2,0,Debit Card
+CUST0933,41,Female,Mumbai,Silver,59475,4,1213,1513,19.7,3.9,7,18.4,0,Net Banking
+CUST0934,46,Male,Pune,Silver,24825,5,786,1005,25.5,4.9,8,19.0,1,Cash on Delivery
+CUST0935,34,Female,Hyderabad,Regular,66765,1,575,161,16.6,3.8,5,36.9,0,UPI
+CUST0936,36,Female,Mumbai,Gold,63421,5,6774,13035,31.2,3.0,8,9.7,0,UPI
+CUST0937,21,Male,Hyderabad,Regular,41585,3,2047,2029,9.6,4.0,9,38.5,1,Debit Card
+CUST0938,30,Female,Mumbai,Regular,48722,4,1931,3160,18.0,1.0,10,7.8,0,Debit Card
+CUST0939,39,Female,Bengaluru,Gold,14954,4,1431,1511,21.7,5.8,8,38.4,0,Credit Card
+CUST0940,39,Male,Pune,Regular,45687,3,1104,1168,31.9,3.5,9,5.9,0,UPI
+CUST0941,33,Female,Mumbai,Gold,52140,6,1349,2995,9.5,5.9,3,16.8,0,Credit Card
+CUST0942,39,Male,Ahmedabad,Regular,55206,4,634,897,6.0,2.1,10,51.8,1,UPI
+CUST0943,35,Female,Pune,Silver,59199,7,1132,2681,19.3,1.8,9,28.3,0,UPI
+CUST0944,42,Male,Ahmedabad,Regular,56641,2,1920,1330,5.1,3.7,9,23.7,0,Debit Card
+CUST0945,34,Male,Mumbai,Silver,46977,2,2064,1506,2.5,3.7,6,9.1,0,UPI
+CUST0946,28,Male,Hyderabad,Gold,57438,4,1264,1991,10.0,3.6,6,11.2,0,Debit Card
+CUST0947,34,Male,Ahmedabad,Gold,71039,8,1665,4077,22.4,3.4,10,43.1,1,Credit Card
+CUST0948,18,Female,Bengaluru,Platinum,50186,10,3287,10736,4.8,2.4,7,24.5,0,Credit Card
+CUST0949,34,Male,Mumbai,Silver,58034,6,1141,2437,11.7,1.3,9,32.1,2,UPI
+CUST0950,18,Female,Delhi,Gold,48463,3,1965,1782,10.6,3.6,9,18.9,0,Cash on Delivery
+CUST0951,18,Male,Bengaluru,Silver,39712,2,1717,961,44.9,1.6,10,15.0,1,Credit Card
+CUST0952,35,Male,Ahmedabad,Gold,61935,7,2239,6442,3.8,1.5,10,29.6,2,Cash on Delivery
+CUST0953,35,Female,Pune,Silver,41451,5,1613,2278,38.5,2.7,9,21.3,0,UPI
+CUST0954,21,Male,Mumbai,Gold,59337,8,1444,3336,12.3,3.7,6,16.1,1,Credit Card
+CUST0955,25,Female,Mumbai,Regular,52537,3,873,925,9.7,5.7,8,7.2,0,Net Banking
+CUST0956,43,Male,Delhi,Silver,46225,4,901,947,15.5,4.4,8,33.5,0,UPI
+CUST0957,27,Male,Ahmedabad,Silver,45765,10,753,1925,35.4,5.0,5,24.0,1,UPI
+CUST0958,51,Female,Mumbai,Regular,42346,3,1048,820,14.1,4.0,9,12.1,1,Cash on Delivery
+CUST0959,31,Male,Delhi,Regular,20730,7,1550,2935,26.4,3.7,5,38.7,1,Credit Card
+CUST0960,35,Male,Ahmedabad,Platinum,59275,12,1344,5186,3.3,6.3,8,21.1,0,UPI
+CUST0961,46,Female,Mumbai,Regular,56399,3,1234,1437,2.7,1.5,8,21.4,1,Net Banking
+CUST0962,32,Male,Mumbai,Regular,68144,3,1529,1408,25.5,2.7,9,32.0,0,UPI
+CUST0963,22,Female,Delhi,Regular,41902,1,509,164,9.9,2.8,9,27.8,1,Credit Card
+CUST0964,30,Male,Delhi,Regular,88012,2,982,687,14.3,4.3,7,21.8,0,Debit Card
+CUST0965,31,Female,Mumbai,Silver,44785,6,2895,5217,37.2,2.0,9,15.9,0,Debit Card
+CUST0966,19,Male,Hyderabad,Platinum,35373,11,3026,10721,12.0,4.2,7,65.3,0,Credit Card
+CUST0967,29,Male,Bengaluru,Platinum,33120,12,1094,4127,24.3,3.9,9,11.2,0,UPI
+CUST0968,24,Female,Hyderabad,Silver,19055,7,1912,4109,9.9,4.2,10,29.2,0,Cash on Delivery
+CUST0969,39,Female,Hyderabad,Silver,81120,7,1059,2333,16.2,4.2,6,17.0,1,Debit Card
+CUST0970,31,Male,Hyderabad,Regular,78050,6,1471,2223,3.5,5.1,3,24.2,0,UPI
+CUST0971,28,Male,Bengaluru,Gold,63414,8,1422,4524,28.0,3.1,8,40.1,1,UPI
+CUST0972,30,Female,Mumbai,Regular,34974,3,1076,1333,27.4,3.9,7,14.7,0,Credit Card
+CUST0973,33,Female,Bengaluru,Regular,86414,2,878,691,28.2,2.3,8,26.6,1,UPI
+CUST0974,37,Female,Mumbai,Platinum,45317,6,2403,3618,3.8,2.0,8,21.4,0,Cash on Delivery
+CUST0975,22,Other,Delhi,Gold,46889,6,1497,3370,23.2,5.4,8,11.9,0,Cash on Delivery
+CUST0976,22,Female,Mumbai,Regular,79308,4,1001,1383,25.4,2.2,7,40.8,0,UPI
+CUST0977,41,Male,Bengaluru,Silver,64519,5,885,1176,6.8,4.0,8,28.6,0,Cash on Delivery
+CUST0978,27,Female,Mumbai,Regular,93821,6,1352,3289,20.2,3.9,9,13.6,0,Debit Card
+CUST0979,18,Male,Mumbai,Regular,56726,3,1184,1348,20.3,4.7,8,36.9,0,Debit Card
+CUST0980,35,Female,Mumbai,Regular,44456,0,558,0,0.9,1.1,10,10.5,2,Net Banking
+CUST0981,35,Female,Bengaluru,Regular,40376,1,1669,685,9.3,4.3,9,17.7,1,UPI
+CUST0982,18,Male,Delhi,Silver,16907,4,1347,1460,14.1,3.1,8,13.6,0,Cash on Delivery
+CUST0983,33,Male,Mumbai,Regular,46707,4,1177,1534,6.5,2.5,8,29.3,0,UPI
+CUST0984,38,Female,Hyderabad,Silver,73747,4,1999,2211,2.7,2.9,9,13.2,0,Credit Card
+CUST0985,34,Female,Hyderabad,Regular,63378,1,1263,347,16.9,4.5,8,29.5,0,Credit Card
+CUST0986,37,Female,Pune,Platinum,52386,9,3915,14492,3.7,4.1,9,26.5,0,UPI
+CUST0987,18,Female,Delhi,Silver,33096,4,1282,1771,10.4,3.0,6,14.1,0,Debit Card
+CUST0988,34,Female,Pune,Gold,56311,10,2934,8602,37.5,1.8,9,59.1,0,Credit Card
+CUST0989,28,Male,Mumbai,Regular,71243,3,1158,1318,2.8,1.9,7,11.1,0,Credit Card
+CUST0990,27,Female,Bengaluru,Silver,60184,2,1795,1421,20.5,4.1,8,7.2,1,Credit Card
+CUST0991,39,Male,Mumbai,Gold,55168,3,2251,2721,9.8,1.6,10,31.4,0,UPI
+CUST0992,44,Female,Hyderabad,Regular,36858,1,1852,751,8.6,3.1,8,4.5,0,UPI
+CUST0993,47,Female,Ahmedabad,Regular,68476,2,1489,1194,18.8,6.6,5,47.5,0,UPI
+CUST0994,43,Male,Hyderabad,Regular,12000,3,913,976,9.1,3.8,9,19.2,1,Net Banking
+CUST0995,30,Female,Bengaluru,Regular,59274,2,840,516,15.4,4.1,7,7.1,0,Debit Card
+CUST0996,34,Male,Bengaluru,Regular,100836,3,1077,1306,28.8,1.9,10,9.7,1,Credit Card
+CUST0997,38,Female,Ahmedabad,Regular,23341,3,799,648,35.0,1.7,10,6.2,1,Debit Card
+CUST0998,32,Male,Mumbai,Regular,47414,6,707,1180,19.8,4.2,9,23.1,0,Credit Card
+CUST0999,32,Male,Mumbai,Silver,51850,3,593,573,18.9,2.8,9,7.6,0,UPI
+CUST1000,38,Male,Bengaluru,Regular,43211,2,574,341,12.3,4.7,10,24.9,0,UPI
+CUST1001,30,Female,Pune,Regular,71691,3,2532,2679,10.0,3.4,8,14.8,0,Credit Card
+CUST1002,24,Female,Pune,Silver,60977,2,1101,883,8.5,7.6,5,13.2,0,UPI
+CUST1003,27,Female,Mumbai,Regular,54894,4,2447,3248,6.0,2.6,8,25.1,0,Cash on Delivery
+CUST1004,37,Male,Bengaluru,Regular,67148,1,1303,446,12.4,3.7,7,27.0,0,UPI
+CUST1005,31,Female,Mumbai,Regular,52318,2,1077,690,5.2,2.2,9,37.9,0,Credit Card
+CUST1006,34,Female,Mumbai,Regular,112417,2,586,431,14.3,4.6,8,11.9,0,Credit Card
+CUST1007,37,Female,Mumbai,Regular,54876,2,1102,588,15.2,3.9,6,17.7,0,Debit Card
+CUST1008,28,Female,Pune,Regular,55710,3,2435,1885,7.0,2.1,8,11.9,0,Net Banking
+CUST1009,38,Female,Hyderabad,Regular,19501,1,2116,755,10.3,2.9,9,20.0,0,UPI
+CUST1010,34,Female,Pune,Platinum,41674,8,2693,7307,8.5,5.0,8,10.9,1,UPI
+CUST1011,20,Female,Delhi,Gold,73800,4,1173,1492,17.6,4.9,7,13.7,0,Debit Card
+CUST1012,44,Male,Delhi,Regular,26626,2,736,450,23.2,1.6,9,13.7,1,UPI
+CUST1013,26,Female,Pune,Regular,12000,1,769,199,9.9,2.7,7,21.8,0,UPI
+CUST1014,18,Female,Hyderabad,Regular,52614,6,1882,4104,13.0,5.6,6,18.0,0,Debit Card
+CUST1015,22,Male,Delhi,Gold,78044,6,3770,7244,17.8,3.1,8,25.0,0,UPI
+CUST1016,22,Male,Bengaluru,Gold,52805,6,2063,4013,3.7,3.6,9,16.8,1,UPI
+CUST1017,31,Female,Mumbai,Regular,45614,1,969,387,20.6,4.6,8,12.3,0,Credit Card
+CUST1018,29,Male,Mumbai,Regular,16689,2,2108,1572,5.9,1.7,8,20.4,1,Credit Card
+CUST1019,28,Male,Ahmedabad,Regular,60593,4,729,836,3.4,2.2,8,9.9,0,Cash on Delivery
+CUST1020,37,Male,Delhi,Gold,64564,4,1942,2793,13.1,2.9,10,26.1,0,UPI
+CUST1021,34,Male,Ahmedabad,Gold,18147,5,2308,3139,27.6,4.8,8,15.0,1,UPI
+CUST1022,34,Male,Hyderabad,Regular,73556,1,766,216,12.9,4.6,7,20.6,1,Debit Card
+CUST1023,35,Female,Mumbai,Silver,66548,2,1110,819,10.7,4.2,6,20.8,3,Cash on Delivery
+CUST1024,37,Female,Hyderabad,Regular,73514,1,815,221,27.2,3.2,7,51.0,0,UPI
+CUST1025,18,Male,Pune,Silver,63087,3,2629,2340,9.1,4.7,7,23.1,1,Credit Card
+CUST1026,28,Other,Delhi,Gold,64420,7,4246,11879,8.7,3.1,8,18.9,2,Credit Card
+CUST1027,18,Female,Mumbai,Regular,61894,8,1154,3444,5.8,4.0,8,11.5,0,UPI
+CUST1028,31,Female,Mumbai,Regular,68501,5,983,1990,19.8,4.5,8,30.3,0,UPI
+CUST1029,31,Male,Delhi,Silver,17444,4,1127,1790,28.5,5.4,6,15.1,1,Debit Card
+CUST1030,40,Female,Hyderabad,Regular,23480,1,1101,333,37.4,3.3,7,6.7,0,UPI
+CUST1031,42,Male,Bengaluru,Gold,38016,3,1508,1608,14.7,2.9,10,15.9,1,UPI
+CUST1032,33,Male,Pune,Regular,49533,2,1056,661,6.5,4.9,6,20.4,0,Credit Card
+CUST1033,26,Male,Pune,Gold,59375,4,2260,3310,16.5,5.0,5,10.6,0,UPI
+CUST1034,35,Male,Ahmedabad,Regular,58169,6,928,1715,8.4,2.6,6,16.7,0,UPI
+CUST1035,26,Male,Pune,Regular,73225,0,1016,0,30.0,1.9,8,17.2,0,Credit Card
+CUST1036,31,Male,Pune,Regular,73821,2,1018,541,11.3,4.8,8,17.4,1,Cash on Delivery
+CUST1037,40,Male,Bengaluru,Regular,35425,2,963,729,13.1,1.3,8,40.2,2,Debit Card
+CUST1038,26,Male,Pune,Regular,56533,2,914,483,23.2,1.2,10,7.7,0,UPI
+CUST1039,38,Male,Bengaluru,Silver,35891,3,1997,2096,13.8,3.0,8,67.5,0,UPI
+CUST1040,37,Female,Pune,Regular,48423,1,523,206,29.1,3.3,9,17.6,1,Net Banking
+CUST1041,22,Male,Hyderabad,Regular,58114,1,2131,796,13.7,1.9,8,26.2,1,Debit Card
+CUST1042,40,Female,Hyderabad,Regular,12000,2,1164,742,28.8,3.5,7,19.6,1,Debit Card
+CUST1043,37,Male,Ahmedabad,Regular,97814,3,1421,1214,18.4,3.5,8,5.9,1,UPI
+CUST1044,32,Male,Bengaluru,Gold,62762,10,2576,10401,21.0,2.6,9,9.1,0,UPI
+CUST1045,24,Female,Pune,Platinum,40682,4,1783,2456,38.7,5.7,6,12.8,1,UPI
+CUST1046,23,Female,Delhi,Regular,88620,3,749,714,4.0,3.7,8,34.3,1,Cash on Delivery
+CUST1047,26,Female,Hyderabad,Gold,45399,6,1232,3009,7.6,4.6,8,7.3,1,Cash on Delivery
+CUST1048,36,Male,Bengaluru,Gold,54518,6,1713,2938,12.1,1.4,7,10.3,0,UPI
+CUST1049,22,Female,Delhi,Platinum,42745,11,3219,11462,19.0,1.4,9,20.0,0,Debit Card
+CUST1050,35,Female,Delhi,Regular,83388,3,861,693,19.0,3.8,7,24.5,1,Cash on Delivery
+CUST1051,20,Male,Delhi,Regular,50005,1,1420,385,2.9,5.5,6,24.0,2,Cash on Delivery
+CUST1052,29,Male,Delhi,Regular,54840,9,407,1159,7.8,1.9,9,9.5,1,Credit Card
+CUST1053,32,Female,Mumbai,Gold,74872,5,1616,2962,17.4,3.4,7,6.4,0,UPI
+CUST1054,53,Female,Bengaluru,Silver,63118,2,2367,1451,22.7,1.7,6,25.6,0,Net Banking
+CUST1055,19,Other,Bengaluru,Regular,50967,0,1024,0,22.5,2.3,8,45.7,2,UPI
+CUST1056,44,Male,Mumbai,Regular,73097,4,777,1194,9.4,3.4,7,14.4,0,UPI
+CUST1057,32,Male,Hyderabad,Silver,100231,4,1100,1744,3.9,2.6,9,8.6,0,UPI
+CUST1058,35,Female,Bengaluru,Gold,58031,3,533,412,17.6,1.6,10,13.6,0,Credit Card
+CUST1059,32,Female,Mumbai,Regular,54218,6,719,1635,8.8,1.5,6,23.3,0,UPI
+CUST1060,35,Female,Hyderabad,Silver,55242,2,2261,1241,21.3,1.0,8,15.5,2,Credit Card
+CUST1061,30,Male,Delhi,Regular,76898,1,861,315,3.7,3.8,8,44.9,1,Cash on Delivery
+CUST1062,44,Female,Delhi,Regular,40615,1,905,282,33.9,3.9,6,32.8,1,Credit Card
+CUST1063,27,Female,Pune,Silver,46712,6,545,1203,4.8,3.9,9,20.3,0,Net Banking
+CUST1064,41,Male,Hyderabad,Gold,22789,5,958,1368,10.6,2.1,10,5.1,0,Cash on Delivery
+CUST1065,25,Male,Pune,Platinum,29507,2,3956,2829,5.6,4.5,7,11.5,0,Debit Card
+CUST1066,30,Male,Bengaluru,Regular,42162,4,1426,1545,23.8,4.1,7,12.6,1,Credit Card
+CUST1067,21,Female,Mumbai,Regular,50937,2,638,355,15.6,3.2,5,11.1,0,Cash on Delivery
+CUST1068,35,Female,Delhi,Regular,85613,4,844,1190,10.3,3.0,9,20.4,0,Credit Card
+CUST1069,44,Female,Delhi,Regular,62184,2,1087,666,14.6,2.4,10,20.7,0,UPI
+CUST1070,30,Female,Bengaluru,Regular,34671,0,666,0,12.5,3.4,10,6.1,0,Cash on Delivery
+CUST1071,29,Male,Bengaluru,Regular,38168,2,474,345,11.6,5.2,7,30.4,0,Credit Card
+CUST1072,21,Female,Hyderabad,Regular,78120,0,1029,0,8.1,4.6,6,18.2,1,Cash on Delivery
+CUST1073,29,Male,Delhi,Regular,73406,4,1399,2080,25.1,2.9,9,22.7,0,UPI
+CUST1074,18,Male,Mumbai,Regular,52535,4,1410,2156,3.8,3.9,8,29.2,2,UPI
+CUST1075,23,Other,Ahmedabad,Gold,43592,2,2744,2206,15.3,1.8,9,10.9,0,Debit Card
+CUST1076,33,Female,Delhi,Regular,73374,3,573,453,5.2,4.1,8,40.8,0,Credit Card
+CUST1077,43,Female,Ahmedabad,Silver,33127,4,1486,2052,41.6,2.2,9,16.4,1,Credit Card
+CUST1078,56,Female,Ahmedabad,Gold,59449,4,1697,2544,13.9,4.1,9,48.1,0,Cash on Delivery
+CUST1079,26,Female,Ahmedabad,Silver,95181,5,1398,2000,20.1,6.9,7,10.1,0,Credit Card
+CUST1080,44,Female,Delhi,Regular,55902,1,1006,296,4.0,2.5,8,45.8,0,UPI
+CUST1081,33,Female,Bengaluru,Regular,37263,0,834,0,3.9,6.9,5,10.0,0,Debit Card
+CUST1082,30,Male,Mumbai,Silver,59797,3,408,423,18.5,3.8,5,94.4,0,UPI
+CUST1083,35,Male,Bengaluru,Silver,43070,4,2362,2939,8.1,2.3,8,9.7,1,Credit Card
+CUST1084,32,Male,Delhi,Regular,25512,4,1264,1825,21.7,2.2,7,35.8,0,UPI
+CUST1085,32,Female,Bengaluru,Regular,65320,3,590,623,12.6,6.2,7,14.2,1,UPI
+CUST1086,27,Female,Hyderabad,Silver,73239,4,1769,2544,5.2,3.8,7,28.6,0,Net Banking
+CUST1087,18,Female,Mumbai,Regular,46093,5,912,1332,22.2,2.5,8,17.5,0,UPI
+CUST1088,18,Female,Pune,Silver,44833,2,1216,919,25.4,2.9,9,8.9,0,Debit Card
+CUST1089,37,Female,Bengaluru,Regular,33730,4,797,1150,20.5,3.7,8,2.9,0,Credit Card
+CUST1090,29,Other,Pune,Regular,49151,5,1378,1873,23.2,3.2,8,91.9,0,UPI
+CUST1091,26,Female,Mumbai,Gold,41315,7,1358,2694,9.0,3.6,10,18.9,1,Cash on Delivery
+CUST1092,31,Female,Mumbai,Regular,32790,4,694,833,6.5,5.4,8,2.7,0,UPI
+CUST1093,38,Male,Hyderabad,Silver,87951,4,2332,3787,7.4,1.8,8,21.9,0,Credit Card
+CUST1094,33,Male,Bengaluru,Regular,60863,2,1020,621,11.0,4.0,7,28.2,1,Debit Card
+CUST1095,25,Male,Mumbai,Regular,62876,2,1034,524,30.5,3.1,9,11.3,0,Debit Card
+CUST1096,42,Female,Mumbai,Gold,68785,5,2541,3476,15.4,2.6,9,11.4,1,UPI
+CUST1097,45,Male,Bengaluru,Regular,66650,2,831,424,20.2,4.5,6,17.8,1,Cash on Delivery
+CUST1098,35,Female,Mumbai,Regular,44151,0,904,0,19.4,1.4,10,39.3,1,Net Banking
+CUST1099,40,Female,Delhi,Gold,57178,5,2160,4135,3.7,1.0,10,19.2,0,Credit Card
+CUST1100,42,Male,Hyderabad,Gold,46888,5,994,1616,17.9,3.5,9,46.6,0,Debit Card
+CUST1101,41,Male,Mumbai,Silver,60331,4,1591,2481,2.7,3.0,10,37.5,1,UPI
+CUST1102,37,Female,Bengaluru,Regular,58492,5,801,1033,16.9,1.5,10,15.5,0,UPI
+CUST1103,36,Male,Mumbai,Regular,44729,2,1576,1035,20.4,1.1,10,6.5,1,Credit Card
+CUST1104,36,Female,Pune,Silver,26743,6,1824,4172,9.4,5.6,7,15.5,0,UPI
+CUST1105,21,Female,Hyderabad,Regular,54779,3,1309,1423,2.8,3.8,7,25.3,0,Debit Card
+CUST1106,37,Female,Bengaluru,Regular,48119,3,560,659,9.2,3.2,6,18.7,1,UPI
+CUST1107,19,Male,Hyderabad,Gold,16083,7,1819,3764,21.7,5.9,7,27.2,0,UPI
+CUST1108,24,Female,Mumbai,Regular,61646,4,671,895,10.2,4.5,8,31.6,1,Credit Card
+CUST1109,43,Male,Pune,Regular,70342,6,1083,2358,0.6,5.4,7,25.4,0,UPI
+CUST1110,39,Female,Bengaluru,Regular,100039,3,416,347,15.6,1.7,7,15.1,0,Credit Card
+CUST1111,44,Male,Bengaluru,Regular,44567,2,576,445,23.5,1.7,9,25.2,0,Credit Card
+CUST1112,29,Male,Ahmedabad,Silver,41764,8,2389,5770,5.7,4.0,8,77.0,0,UPI
+CUST1113,21,Female,Mumbai,Gold,30921,6,2219,3536,25.0,3.7,7,6.8,0,UPI
+CUST1114,29,Female,Hyderabad,Regular,55964,6,948,2148,11.2,4.8,7,24.7,0,UPI
+CUST1115,32,Female,Hyderabad,Regular,55844,3,751,828,30.0,1.2,10,59.2,1,Credit Card
+CUST1116,32,Male,Bengaluru,Silver,36585,2,920,731,23.0,4.1,9,8.4,0,UPI
+CUST1117,41,Female,Pune,Regular,48676,3,1196,1430,20.7,4.4,10,34.5,0,Debit Card
+CUST1118,28,Male,Bengaluru,Silver,14405,4,1255,1488,14.2,4.4,7,37.6,1,Credit Card
+CUST1119,34,Female,Mumbai,Platinum,69601,7,4595,11479,14.6,2.7,9,6.9,3,UPI
+CUST1120,22,Male,Hyderabad,Silver,37357,2,1342,1118,18.0,3.8,8,28.6,1,UPI
+CUST1121,35,Female,Bengaluru,Regular,51342,3,1127,983,15.0,2.2,9,15.1,0,UPI
+CUST1122,31,Male,Ahmedabad,Platinum,24893,14,1340,6169,8.0,2.8,9,17.3,0,UPI
+CUST1123,24,Other,Bengaluru,Regular,40935,1,945,380,22.5,1.9,10,14.6,0,UPI
+CUST1124,29,Female,Bengaluru,Platinum,46688,11,2585,7597,25.8,2.3,6,42.3,0,Net Banking
+CUST1125,29,Male,Delhi,Silver,51785,2,1240,1004,3.0,2.9,9,16.7,0,UPI
+CUST1126,29,Female,Bengaluru,Silver,61115,4,1182,1567,15.8,2.6,9,13.3,1,UPI
+CUST1127,47,Female,Hyderabad,Platinum,79342,6,2753,6588,23.8,2.3,8,13.5,0,Cash on Delivery
+CUST1128,30,Male,Mumbai,Silver,65922,0,2740,0,20.2,1.6,6,14.4,1,Cash on Delivery
+CUST1129,29,Male,Ahmedabad,Regular,70281,3,1169,1269,17.0,5.7,7,8.9,0,Credit Card
+CUST1130,18,Male,Hyderabad,Regular,79476,4,1779,2696,18.9,2.6,8,13.2,0,Credit Card
+CUST1131,23,Female,Hyderabad,Silver,62824,5,1883,2459,7.9,3.6,10,19.4,0,UPI
+CUST1132,29,Female,Bengaluru,Silver,51303,5,2286,4053,42.0,1.0,10,23.4,1,Debit Card
+CUST1133,25,Female,Hyderabad,Regular,71173,1,851,344,5.1,4.9,6,39.4,1,Credit Card
+CUST1134,43,Male,Pune,Silver,72387,8,1329,4352,8.5,3.4,5,21.1,1,Credit Card
+CUST1135,30,Female,Delhi,Silver,64323,9,1332,4932,19.4,2.6,9,13.2,0,UPI
+CUST1136,43,Female,Mumbai,Regular,24362,4,1384,1980,14.1,2.7,9,9.3,0,Credit Card
+CUST1137,32,Female,Pune,Regular,36012,3,1534,1636,35.2,4.3,7,21.8,0,Debit Card
+CUST1138,31,Female,Pune,Regular,46778,1,1159,396,7.9,1.0,10,16.7,2,UPI
+CUST1139,30,Female,Pune,Regular,66813,1,1590,559,9.3,2.2,8,17.0,1,Credit Card
+CUST1140,31,Female,Pune,Regular,51594,3,868,917,6.5,3.1,9,21.3,1,UPI
+CUST1141,46,Male,Hyderabad,Regular,73601,3,1595,1230,29.0,3.0,9,25.2,0,Debit Card
+CUST1142,18,Male,Mumbai,Regular,76989,5,1685,2231,7.0,6.3,4,21.4,0,UPI
+CUST1143,18,Female,Delhi,Regular,74784,3,1462,1549,27.8,2.8,7,16.1,0,Cash on Delivery
+CUST1144,26,Male,Mumbai,Silver,74905,2,1534,928,21.7,4.4,10,10.7,1,Credit Card
+CUST1145,31,Male,Delhi,Regular,32297,3,1484,1337,12.1,5.5,8,12.1,0,Credit Card
+CUST1146,37,Female,Hyderabad,Platinum,61170,12,1649,5585,10.8,4.0,6,31.2,1,UPI
+CUST1147,35,Female,Pune,Gold,40457,3,2065,2376,15.2,2.4,7,13.7,0,Credit Card
+CUST1148,28,Female,Delhi,Silver,20668,3,1645,2027,20.7,1.6,9,7.5,1,UPI
+CUST1149,40,Female,Ahmedabad,Platinum,46538,9,1373,4382,26.0,4.1,6,38.2,1,UPI
+CUST1150,40,Male,Hyderabad,Gold,77170,3,2319,2835,24.5,5.3,7,9.8,0,UPI
+CUST1151,33,Other,Pune,Regular,60754,2,651,517,8.8,3.9,8,18.4,0,UPI
+CUST1152,40,Female,Bengaluru,Gold,90338,5,1587,2272,32.4,4.7,7,24.8,0,Debit Card
+CUST1153,33,Male,Delhi,Regular,55367,2,1119,617,11.8,6.4,8,18.0,0,UPI
+CUST1154,26,Female,Mumbai,Silver,98508,8,1067,2435,24.8,4.2,10,3.6,0,Cash on Delivery
+CUST1155,37,Male,Hyderabad,Silver,55373,10,1501,3993,12.4,1.8,8,23.2,1,Cash on Delivery
+CUST1156,32,Male,Pune,Regular,52427,2,1131,785,21.9,3.3,7,42.6,1,Debit Card
+CUST1157,31,Female,Hyderabad,Regular,27692,5,779,1157,32.3,4.9,8,30.0,1,UPI
+CUST1158,44,Female,Mumbai,Platinum,73101,11,3047,13479,20.1,2.9,10,4.5,1,Credit Card
+CUST1159,18,Male,Mumbai,Regular,42460,2,798,562,35.1,5.1,7,71.7,0,Cash on Delivery
+CUST1160,18,Other,Ahmedabad,Regular,39706,4,2876,3565,4.6,3.1,9,7.6,0,UPI
+CUST1161,20,Female,Hyderabad,Regular,76343,4,1051,1741,12.6,3.6,7,8.9,2,UPI
+CUST1162,28,Female,Hyderabad,Regular,74006,3,673,825,10.4,2.8,8,29.9,0,UPI
+CUST1163,29,Female,Ahmedabad,Gold,73509,5,1257,2387,27.3,3.4,7,24.2,1,Credit Card
+CUST1164,18,Male,Pune,Gold,45118,6,3077,7052,19.1,3.5,8,19.0,1,UPI
+CUST1165,22,Male,Mumbai,Regular,51031,1,926,382,11.0,1.2,9,12.4,1,UPI
+CUST1166,23,Male,Mumbai,Regular,50863,3,620,651,12.9,2.6,9,42.8,0,Credit Card
+CUST1167,53,Male,Bengaluru,Regular,66868,2,1574,1249,38.7,1.7,10,17.5,1,Credit Card
+CUST1168,47,Male,Mumbai,Regular,81518,1,924,241,10.7,2.7,8,6.5,0,UPI
+CUST1169,27,Male,Ahmedabad,Gold,58995,7,2500,5991,15.1,2.2,6,40.1,0,Cash on Delivery
+CUST1170,28,Female,Mumbai,Silver,89523,2,2148,1434,3.9,4.5,7,20.8,0,UPI
+CUST1171,21,Male,Mumbai,Regular,69047,4,1234,1265,28.4,4.5,8,37.2,0,UPI
+CUST1172,18,Female,Mumbai,Silver,47539,2,3966,2098,16.7,3.9,8,26.1,1,UPI
+CUST1173,30,Female,Mumbai,Regular,67746,1,533,135,11.5,1.6,9,85.2,0,UPI
+CUST1174,22,Male,Mumbai,Silver,84413,4,1028,1229,9.2,3.1,10,14.7,2,Credit Card
+CUST1175,30,Male,Delhi,Silver,89967,3,1302,1011,14.8,1.5,9,18.2,0,UPI
+CUST1176,18,Other,Pune,Silver,74551,5,3748,6007,18.3,3.0,8,28.7,1,Cash on Delivery
+CUST1177,24,Female,Bengaluru,Silver,52488,1,3086,1190,1.4,4.0,7,14.8,0,Cash on Delivery
+CUST1178,32,Male,Hyderabad,Platinum,47883,10,4124,14529,11.9,4.4,5,30.3,2,UPI
+CUST1179,34,Female,Bengaluru,Regular,62945,5,788,1427,19.2,3.8,8,2.6,1,Debit Card
+CUST1180,35,Female,Delhi,Regular,83806,2,828,423,18.0,4.8,8,17.2,1,Credit Card
+CUST1181,19,Female,Pune,Regular,60242,2,777,606,19.2,3.5,7,16.8,0,Cash on Delivery
+CUST1182,39,Male,Mumbai,Silver,60636,4,1043,1145,26.0,2.9,8,16.4,0,UPI
+CUST1183,24,Female,Pune,Silver,52977,4,2714,3262,14.6,4.3,7,10.2,0,Credit Card
+CUST1184,37,Male,Ahmedabad,Silver,45770,4,1309,1760,3.3,4.3,7,32.4,1,UPI
+CUST1185,31,Female,Bengaluru,Silver,48919,4,1384,2242,23.8,2.5,7,13.0,1,UPI
+CUST1186,19,Female,Mumbai,Regular,54573,2,1523,1268,7.2,3.7,8,20.5,0,Cash on Delivery
+CUST1187,28,Male,Pune,Silver,84644,3,721,823,20.1,2.8,8,17.6,0,UPI
+CUST1188,34,Female,Hyderabad,Silver,47445,5,1482,2753,7.1,1.0,9,24.9,1,Credit Card
+CUST1189,37,Male,Delhi,Regular,53000,7,694,1642,16.6,3.8,7,45.6,1,UPI
+CUST1190,30,Male,Bengaluru,Regular,35558,1,972,351,13.6,1.6,9,20.4,0,Cash on Delivery
+CUST1191,45,Female,Hyderabad,Regular,65616,2,860,471,28.4,3.6,9,31.1,0,UPI
+CUST1192,40,Male,Delhi,Regular,77967,3,841,744,11.9,1.3,9,19.8,1,UPI
+CUST1193,29,Male,Delhi,Gold,82865,5,2089,4325,19.7,2.3,8,13.0,1,Credit Card
+CUST1194,38,Male,Mumbai,Gold,55864,6,2085,5170,37.7,2.7,9,16.4,1,UPI
+CUST1195,48,Male,Mumbai,Silver,62913,4,1322,1607,23.4,4.7,9,15.0,0,UPI
+CUST1196,49,Male,Ahmedabad,Regular,49083,3,1285,1119,8.5,2.5,9,26.0,0,Debit Card
+CUST1197,20,Male,Bengaluru,Silver,62032,4,1007,1161,6.6,1.9,9,19.3,0,Net Banking
+CUST1198,23,Female,Pune,Gold,57965,7,2530,5859,12.8,3.7,9,10.7,0,Debit Card
+CUST1199,44,Male,Bengaluru,Regular,53107,4,1009,1160,30.3,2.9,8,15.6,1,UPI
+CUST1200,21,Male,Mumbai,Gold,54617,8,1551,4443,6.2,4.2,8,6.7,0,UPI
